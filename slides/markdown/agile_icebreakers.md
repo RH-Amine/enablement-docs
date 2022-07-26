@@ -8,7 +8,7 @@ DO500 <!-- {_class="title-color"} -->
 
 ## Pourquoi briser la glace ?
 - Un moyen efficace de lancer un &eacute;v&eacute;nement de renforcement de la coh&eacute;sion d'&eacute;quipe
-- Aidez les gens &agrave; se connaître
+- Aidez les gens &agrave; se conna&icirc;tre
 
 **Quand?**
 - Les participants viennent d'horizons diff&eacute;rents

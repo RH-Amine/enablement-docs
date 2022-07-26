@@ -7,15 +7,15 @@ DO500 <!-- {_class="title-color"} -->
 
 ### Estimation
 #### _Qu'est-ce que c'est ?_
-* Un moyen d'évaluer la complexité et l'effort des éléments de travail.
+* Un moyen d'&eacute;valuer la complexit&eacute; et l'effort des &eacute;l&eacute;ments de travail.
 
 
 
 ### Estimation
 #### _Pourquoi l'utiliser ?_
-* Découvrir la complexité cachée lorsque l'équipe n'est pas d'accord
-* Créer une compréhension commune des éléments de travail en tant qu'équipe.
-* Soutenir la planification de la feuille de route et les tendances de la vélocité
+* D&eacute;couvrir la complexit&eacute; cach&eacute;e lorsque l'&eacute;quipe n'est pas d'accord
+* Cr&eacute;er une compr&eacute;hension commune des &eacute;l&eacute;ments de travail en tant qu'&eacute;quipe.
+* Soutenir la planification de la feuille de route et les tendances de la v&eacute;locit&eacute;
 
 
 
@@ -23,22 +23,22 @@ DO500 <!-- {_class="title-color"} -->
 #### _Formats courants_
 * Estimation relative
 * Planification
-* Compter le nombre d'éléments de travail
+* Compter le nombre d'&eacute;l&eacute;ments de travail
 
 
 
 ### Exercice - Salade de fruits 1/2
 #### _Estimation relative_
-* Individuellement - écrivez autant de fruits que vous pouvez penser.
+* Individuellement - &eacute;crivez autant de fruits que vous pouvez penser.
 
 
 
 ### Exercice - Salade de fruits 2/2
 #### _Estimation relative_
-* En équipe
+* En &eacute;quipe
   * Comparer et supprimer les doublons
-  * Créer 7 lignes dans un espace
-  * Estimez votre fruit de manière relative
+  * Cr&eacute;er 7 lignes dans un espace
+  * Estimez votre fruit de mani&egrave;re relative
 
 
 <!-- .slide: data-background-image="images/chef-background.png", class="white-style" -->

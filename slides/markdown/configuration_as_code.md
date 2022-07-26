@@ -74,7 +74,7 @@ La pratique de **Everything as Code** va encore plus loin que la configuration e
 
 ### Quels sont les nouveaux outils et frameworks que nous utiliserons ?
 * **OpenShift Container Platform**: La plateforme de d&eacute;ploiement et d'h&eacute;bergement d'applications cloud de Red Hat
-* **GitLab**: Serveur Git g&eacute;r&eacute; par la communaut&eacute;, d&eacute;sormais dot&eacute; d'une chaîne d'outils DevOps int&eacute;gr&eacute;e.
+* **GitLab**: Serveur Git g&eacute;r&eacute; par la communaut&eacute;, d&eacute;sormais dot&eacute; d'une cha&icirc;ne d'outils DevOps int&eacute;gr&eacute;e.
 * **Nexus**: Gestionnaire de r&eacute;f&eacute;rentiel pour le stockage de nombreux types d'applications.
   *  Peut h&eacute;berger des d&eacute;p&ocirc;ts de npm et de conteneurs
 * **Jenkins**: Serveur d'automatisation de construction open source qui est hautement personnalisable avec des plugins.

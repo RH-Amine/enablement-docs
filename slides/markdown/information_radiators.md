@@ -21,12 +21,12 @@ DO500 <!-- {_class="title-color"} -->
 
 ### Radiateurs d'information
 #### _Why visualize work?_
-- Implique un rayonnement et une représentation visuelle de tous les aspects du travail.
-- Cela signifie généralement que les informations utiles aux membres de l'équipe, aux parties prenantes et aux utilisateurs sont physiquement présentées sur les murs, les fenêtres, les portes et autres surfaces planes et placées dans la ligne de mire des personnes qui tireront profit de la consommation de ces informations.
-- Permet de "parcourir les murs", c'est-à-dire qu'une personne intéressée par le travail peut se promener dans l'espace physique où travaillent les équipes concernées et obtenir toutes les informations dont elle a besoin en inspectant les artefacts sur les murs et en écoutant les conversations qui en résultent.
+- Implique un rayonnement et une repr&eacute;sentation visuelle de tous les aspects du travail.
+- Cela signifie g&eacute;n&eacute;ralement que les informations utiles aux membres de l'&eacute;quipe, aux parties prenantes et aux utilisateurs sont physiquement pr&eacute;sent&eacute;es sur les murs, les fen&ecirc;tres, les portes et autres surfaces planes et plac&eacute;es dans la ligne de mire des personnes qui tireront profit de la consommation de ces informations.
+- Permet de "parcourir les murs", c'est-&agrave;-dire qu'une personne int&eacute;ress&eacute;e par le travail peut se promener dans l'espace physique o&ugrave; travaillent les &eacute;quipes concern&eacute;es et obtenir toutes les informations dont elle a besoin en inspectant les artefacts sur les murs et en &eacute;coutant les conversations qui en r&eacute;sultent.
 
 
 
 <!-- .slide: data-background-image="images/chef-background.png" class="white-style" -->
-### Pratiques DevOps utilisées dans cette section :
+### Pratiques DevOps utilis&eacute;es dans cette section :
 - [Radiateurs d'information](https://openpracticelibrary.com/practice/visualisation-of-work/)
