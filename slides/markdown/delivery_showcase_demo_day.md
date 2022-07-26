@@ -1,83 +1,76 @@
 <!-- .slide: data-background-image="images/RH_NewBrand_Background.png" -->
 ## DevOps Culture and Practice <!-- {_class="course-title"} -->
-### Demo Day <!-- {_class="title-color"} -->
+### journée de démonstration <!-- {_class="title-color"} -->
 DO500 <!-- {_class="title-color"} -->
 
 
 
-## Delivery Showcase & Demo Day
+## Présentation des livraisons et journée de démonstration
 
 
 
-### The Showcase
-#### _What is It?_
-* An event where stakeholders and interested parties are given a demonstration of
-recent work performed by a team
-* The latest increment of the product with new features built by the team is
-showcased
-* Provides an opportunity to review culture and practices used by the team
-* It is often performed at the end of an iteration but can be performed at key
-milestones in the life of the product
+### La présentation
+#### _Qu'est-ce que c'est ?_
+* Un événement au cours duquel les parties prenantes et les parties intéressées peuvent assister à une démonstration du travail effectué au sein de l'équipe
+* La dernière version du produit avec de nouvelles fonctionnalités construites par l'équipe est présentée.
+* C'est l'occasion de passer en revue la culture et les pratiques utilisées par l'équipe.
+* Il est souvent réalisé à la fin d'une itération mais peut être réalisé à des étapes clés de la vie du projet.
+à des étapes clés de la vie du produit
 
 
 
-### The Showcase
-#### _Why Use It?_
-The showcase provides a critical feedback loop for products being incrementally
-and iteratively built. Stakeholders can give feedback on the features as they
-are being built, suggest improvements, give ideas for new features, and catch
-problems early.
 
-**Other benefits**
-* Provides an open forum for channeling feedback from stakeholders to product
-leadership so that prioritization and future work can be adapted accordingly
-* Enables collaboration across all interested parties on a regular basis
+### La présentation
+#### _Pourquoi l'utiliser ?_
+La présentation fournit une boucle de feedback critique pour les produits construits de manière incrémentale et itérative.
+Les parties prenantes peuvent donner leur avis sur les fonctionnalités au fur et à mesure qu'elles sont construites. Et suggérer des améliorations, donner des idées pour de nouvelles fonctionnalités et détecter les problèmes à un stade précoce.
+
+**Autres avantages**
+* Fournit un espace ouvert pour canaliser les commentaires des parties prenantes vers la direction du produit afin que la priorisation et le travail futur puissent être adaptés en conséquence.
+* Permet la collaboration entre toutes les parties intéressées sur une base régulière.
 
 
 
-### Demo Day
-#### _What is Demo Day about?_
-* Demo Day is the culmination of a trip around the Practice Loop
-* It is an opportunity for the team to showcase their work from a particular
-time period
-* An opportunity for key stakeholders to see the results
-* May have had many showcases or product increments completed feeding this
-* An opportunity to talk about "what's next" and how do to adapt the culture for
-the next round
-* An opportunity to celebrate!
+### journée de démonstration
+#### _Qu'est-ce que le Demo Day ?_
+* La journée de démonstration est le point culminant du voyage autour de la boucle d'entraînement.
+* C'est l'occasion pour l'équipe de présenter son travail sur une période de temps.
+* C'est l'occasion pour les principales parties prenantes de voir les résultats.
+* Il se peut qu'il y ait eu de nombreuses présentations ou incréments de produit qui alimentent cette journée.
+* Une occasion de parler de "ce qui va suivre" et de la manière d'adapter la culture pour le prochain cycle.
+la prochaine étape
+* Une occasion de célébrer !
+
+
+### journée de démonstration
+#### _astuce_
+* "Montrer" et non "raconter"
+* Profitez de l'occasion pour susciter l'enthousiasme autour du produit et de la culture.
+* La démonstration ne doit pas seulement inclure le produit d'un sprint ou d'une version, mais aussi de la **culture** et de la **philosophie** utilisées pour le produire.
 
 
 
-### Demo Day
-#### _Tips_
-* "Show" NOT "tell"
-* Take the opportunity to drive excitement around the product **and** culture
-* The demo should include not just the product of a sprint or release but of
-the **culture** and **philosophy** used to produce it
+### Choisissez votre propre aventure - Exercice A ou B
 
 
 
-### Choose your own adventure - Exercise A or B
+### Exercice A : la journée de démonstration réussie
+En équipe, prenez le temps de faire un brainstorming :
+* Qu'avez-vous retenu de l'ensemble des sessions et activités de cette semaine ?
+  * Les gens, les processus et la technologie
+* Qu'avez-vous appris sur votre équipe, votre classe ou vos instructeurs ?
+* Qu'avez-vous apprécié ?
 
 
 
-### Exercise A: The Successful Demo Day 
-In teams, take some time to brainstorm:
-* What have you taken away from this week's set of sessions and activities:
-  * People, processes **and** technology
-* What did you learn about your team, class, or instructors?
-* What did you enjoy?
-
-
-
-### Exercise B: The Success Factors and the Anti Patterns
-In teams, take some time to brainstorm:
-* Demo Day - What are the things you would bring and show during a Demo Day?
-* Success Factors - What are things or people who could help drive this new way of working and help with adoption
-* Anti Patterns - What are the things that would hinder us or prevent us from succeeding? 
+### Exercice B: Les facteurs de succès et les Anti Patterns
+En équipe, prenez le temps de faire un brainstorming :
+* Journée de démonstration - Quelles sont les choses que vous apporteriez et montreriez lors d'une journée de démonstration ?
+* Facteurs de réussite - Quelles sont les choses ou les personnes qui pourraient contribuer à cette nouvelle façon de travailler et à son adoption ?
+* Anti-patterns - Quelles sont les choses qui nous gêneraient ou nous empêcheraient de réussir ? 
 
 
 
 <!-- .slide: data-background-image="images/chef-background.png", class="white-style" -->
-### DevOps practices used in this section:
+###  Les pratiques DevOps utilisées dans cette section :
 - [Showcase](https://openpracticelibrary.com/practice/showcase/)

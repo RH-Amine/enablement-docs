@@ -11,21 +11,20 @@ DO500 <!-- {_class="title-color"} -->
 
 
 ### Impact Mapping
-#### _What is It?_
-Impact Mapping is an engaging, graphical, and strategic planning technique.
+#### _Qu'est-ce que c'est ?_
+Impact Mapping st une technique de planification attrayante, graphique et stratégique..
 
-At the end of the impact map, you should have:
-* A shared understanding of your project's goal or problem statement
-* An inventory of human behavioral changes (impacts) that must occur (or not occur)
-for your project to be successful
-* Optionally, an inventory of project scope that could be delivered to achieve
-the aforementioned impacts
-* Some sort of prioritization of scope and/or impacts
+A la fin de l'impact map, vous devriez avoir :
+* Une compréhension partagée de l'objectif ou de l'énoncé du problème de votre projet.
+* Un inventaire des changements de comportements humains (impacts) qui doivent se produire (ou ne pas se produire)
+pour que votre projet soit une réussite
+* En option, un inventaire de la portée du projet qui pourrait être réalisé pour atteindre les impacts mentionnés.
+* Une sorte de hiérarchisation de la portée et/ou des impacts.
 
 
 
 ### Impact Mapping
-It was brought to the IT world by Gojko Adzic in 2012. 
+Il a été introduit dans le monde informatique par Gojko Adzic en 2012. 
 ![impact-mapping](https://www.impactmapping.org/assets/cover500.png)
 
 
@@ -47,59 +46,58 @@ It was brought to the IT world by Gojko Adzic in 2012.
 
 
 ### Impact Mapping
-#### _Why Use It?_
-* Focuses on business objectives
-* Re-orients us towards delivering value, not delivering features
-* Introduces a very simple human centered design process
-* It is a graphical mind map
-  * Reduces the barrier to entry for participants and facilitators
-* The technique is highly adaptable for time and audience
-* Helps identify which hypotheses are the most valuable to test
+#### _Pourquoi l'utiliser?_
+* Se concentre sur les objectifs métier
+* Nous réoriente vers la fourniture de valeur, et non vers la fourniture de fonctionnalités.
+* Introduit un processus très simple de conception centrée sur l'humain.
+* C'est une carte mentale graphique
+  * Réduit la barrière d'entrée pour les participants et les animateurs.
+* La technique est très adaptable en fonction du temps et du public.
+* Aide à identifier les hypothèses les plus intéressantes à tester.
 
 
 
-### Example Impact Map
+### Exemple Impact Map
 ![Example](images/ImpactMapping/ImpactMap.png)
 
 
 
-### Example Impact Map with Deliverables
+### Exemple Impact Map avec des livrables
 ![Example2](images/ImpactMapping/ImpactDeliverables.png)
 
 
 
-### Exercise - Setting the Scene
-One of the facilitators is playing the role of *CEO* of Todolist Management International (TMI&trade;)
+### Exercice - Définir le contexte
+L'un des animateurs joue le rôle de *CEO* de Todolist Management International (TMI&trade ;).
 
-#### Market Research
+#### Étude de marché
 
-* TMI&trade; has been a market leader for 15 years in pen and paper TodoList Kit industry
-* Our research suggests that people most likely  to use a digital TodoList application are aged between 18 and 49 years old
-* Long Term goal is to use the Facebook model - attract millions of users to be able to harvest their data for nefarious use
-
-
-
-### Exercise - Impact Mapping 1/2
-As a class:
-
-1. Start at the end:
-   * We have an easy to use tool with 1 million users getting tasks done.
-2. Discuss:
-   * Is this a good goal?
-3. Diverge <> Converge:
-   * Who are the **all** the actors that can get us to our goal?
-   * Who are the focus ones? Pick one to two actors per table
+* TMI&trade est depuis 15 ans le leader du marché des kits TodoList papier et crayon.
+* Nos recherches suggèrent que les personnes les plus susceptibles d'utiliser une application numérique TodoList sont âgées de 18 à 49 ans.
+* L'objectif à long terme est d'utiliser le modèle de Facebook - attirer des millions d'utilisateurs pour pouvoir récolter leurs données à des fins malveillantes.
 
 
 
-### Exercise - Impact Mapping 2/2
-As a class:
-1. Walk through creating the Impacts and Deliverables for one Actor
+### Exercice - Impact Mapping 1/2
+En groupe :
 
-As a team:
-1. Determine impacts and deliverables for your actors
-2. Issue your Donal Dollars&trade; to identify where you should place your bets
+1. Commencez par la fin :
+   * Nous avons un outil facile à utiliser avec 1 million d'utilisateurs qui accomplissent des tâches.
+2. Discutez-en :
+   * Est-ce un bon objectif ?
+3. Diverger <> Converger :
+   * Qui sont les **tous** les acteurs qui peuvent nous amener à notre objectif ?
+   * Qui sont ceux qui sont visés ? Choisissez un à deux acteurs par table
 
+
+
+### Exercice - Impact Mapping 2/2
+En groupe :
+1. Passez en revue la création des impacts et des résultats attendus pour un acteur.
+
+En équipe :
+1. Déterminez les impacts et les résultats attendus pour vos acteurs.
+2. Émettez vos Donal Dollars&trade ; pour identifier où vous devez placer vos paris.
 
 
 <!-- .slide: data-background-image="images/chef-background.png", class="white-style" -->

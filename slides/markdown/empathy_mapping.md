@@ -1,60 +1,54 @@
 <!-- .slide: data-background-image="images/RH_NewBrand_Background.png" -->
 ## DevOps Culture and Practice <!-- {_class="course-title"} -->
-### Empathy Mapping <!-- {_class="title-color"} -->
+### Carte de l'empathie <!-- {_class="title-color"} -->
 DO500 <!-- {_class="title-color"} -->
 
 
 
 <!-- .slide: id="empathy-mapping" -->
-## Empathy Mapping
+## Carte de l'empathie
 
 
 
-### Empathy Mapping
-#### _What Is It?_
-* A tool to capture and visualize what key stakeholders are sensing when in a
-particular context or completing a set of tasks
-* A way to form a better understanding of users and build personas
-* Information is captured directly from interviews, observations, and other
-facilitated conversation exercises
-* Senses captured can include what the person is seeing, thinking, doing, and feeling
-* Originated from Dave Gray of [XPLANE](http://www.xplane.com/)
+### Carte de l'empathie
+#### _Qu'est-ce que c'est ? _
+* Un outil pour capturer et visualiser ce que les acteurs clés ressentent lorsqu'ils sont dans un contexte particulier ou lorsqu'ils accomplissent un ensemble de tâches.
+* Un moyen de mieux comprendre les utilisateurs et de créer des personages.
+* L'information est saisie directement à partir d'entretiens, d'observations et d'autres exercices de conversation guidés.
+* Les sentiments capturés peuvent inclure ce que la personne voit, pense, fait et ressent.
+* Créé par Dave Gray de [XPLANE] (http://www.xplane.com/)
 
 
-
-### Empathy Mapping
+### Carte de l'empathie
 ![EmpathyMap](images/usm/empathymap.jpg)
 
 
 
-### Empathy Mapping
-#### _Why Use It?_
-* Captures information and learning directly from the end user affected by the
-system/application/solution in question
-* Enables a direct connection between important stakeholders and developers, e.g.
-developers of an application can learn directly from end users using it
-* The tool identifies pain points, opportunities, and starts to form a basis for
-improvement and optimization
-* The tool can be used to move from user empathy to value propositions
+### Carte de l'empathie
+#### _Pourquoi l'utiliser ?_
+* Capture l'information et l'apprentissage directement de l'utilisateur final affecté par le système, l'application ou la solution en question.
+* Permet une connexion directe entre les parties prenantes importantes et les développeurs, par ex.
+les développeurs d'une application peuvent apprendre directement des utilisateurs finaux qui l'utilisent.
+* L'outil identifie les points de douleur, les opportunités et commence à former une base pour l'amélioration et l'optimisation.
+* L'outil peut être utilisé pour passer de l'empathie de l'utilisateur aux propositions de valeur.
 
 
 
-## Empathy Mapping Demonstration
+## Carte de l'empathie Demonstration
 
 
 
-### Summary
-#### _How do we form the user story map for value slicing?_
-* Use the commands from **event storming**
-* Use the ideas surfaced from **metric-based process mapping**
-* Capture interactions with users and key stakeholders:
-  * User interviews
-  * Research
-  * **Empathy Mapping** of users
-  * **Empathy Mapping** of developers and operations people
-
+### Résumé
+#### _Comment formons-nous la carte des histoires d'utilisateurs pour le découpage en valeurs ?_
+* Utiliser les commandes de **event storming**.
+* Utilisez les idées issues de la cartographie des processus basée sur les métriques**.
+* Capturez les interactions avec les utilisateurs et les principales parties prenantes :
+  * Entretiens avec les utilisateurs
+  * Recherche
+  * Cartographie de l'empathie des utilisateurs
+  * **Cartographie de l'empathie** des développeurs et du personnel opérationnel
 
 
 <!-- .slide: data-background-image="images/chef-background.png", class="white-style" -->
-### DevOps practices used in this section:
-- [Empathy Mapping](https://openpracticelibrary.com/practice/empathy-mapping/)
+###  Pratiques DevOps utilisées dans cette section :
+- [Carte de l'empathie](https://openpracticelibrary.com/practice/empathy-mapping/)
