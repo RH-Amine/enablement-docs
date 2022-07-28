@@ -6,22 +6,22 @@ DO500 <!-- {_class="title-color"} -->
 
 
 ### ![Open Practice Library](images/open-practice-library-logo.png) <!-- {_class="inline-image"} -->
-#### _What is It?_
-* Open source community-driven repository of practices and tools
-* Practices are created by people currently using them on daily basis
+#### _Qu'est-ce que c'est ? _
+* Référentiel communautaire de pratiques et d'outils basés sur du code open source
+* Les pratiques sont créées par des personnes qui les utilisent au quotidien.
 
 
 
-#### Open Practice Library in a Nutshell
+#### Open Practice Library en résumé
 <iframe width="600" height="480" src="https://www.youtube.com/embed/N4mBIZg8MnQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
 ### ![Open Practice Library](images/open-practice-library-logo.png) <!-- {_class="inline-image"} -->
-#### _Why Use It?_
-* Be inspired by new ideas
-* Share ideas and create references
-* Continuously improve
+#### _Pourquoi l'utiliser?_
+* Être inspiré par de nouvelles idées
+* Partager des idées et créer des références
+* S'améliorer continuellement
 
 
 
