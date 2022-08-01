@@ -1,26 +1,27 @@
 <!-- .slide: data-background-image="images/RH_NewBrand_Background.png" -->
 ## DevOps Culture and Practice <!-- {_class="course-title"} -->
-### Batch Flow <!-- {_class="title-color"} -->
+### Gestion de Batch <!-- {_class="title-color"} -->
 DO500 <!-- {_class="title-color"} -->
 
 
 
-### Batch Processing
-#### _What is it?_
-* Concurrent work being done
-* Typically performed on a schedule or specific timeframe
+### Traitement par Batch 
+#### _Qu'est-ce que c'est ?_
+* Faire du traitement en  parall&egrave;le
+* G&eacute;n&eacute;ralement ex&eacute;cut&eacute; selon un calendrier ou des p&eacute;riodes sp&eacute;cifiques.
 
 
 
-### Batch Processing
-#### _How can it be used?_
-* Help identify Work In Progress limits
-* Show flow of work through the team/system
+### Traitement par Batch 
+#### _Comment peut-on l'utiliser ?_
+* Aider &agrave; identifier les limites du travail en cours
+* Montrer le flux de travail &agrave; travers l' &eacute;quipe/le syst&egrave;me
 
 
 
-### Exercise - Batch Processing
-1. Break out into teams and experiment with batch processing using poker chips.
-2. Follow the facilitator's instructions.
+### Exercice - Traitement par Batch 
+
+1. R&eacute;partissez-vous en &eacute;quipes et exp&eacute;rimentez le traitement par lots &agrave; l'aide de jetons de poker.
+2. Suivez les instructions de l'animateur.
 
 [The Penny Game](https://www.leanagiletraining.com/better-agile/agile-penny-game-rules/)

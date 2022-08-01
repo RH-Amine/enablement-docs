@@ -5,56 +5,55 @@ DO500 <!-- {_class="title-color"} -->
 
 
 
-### Origins of Kanban
+### Origines du Kanban
 ![Kanban](images/kanban/toyota-production-system.png) <!-- {_class="inline-image"} -->
-* Kanban is a Japanese word that means _card you can see_
-* 1950 Taiichi Onho defined the [Toyota Production System](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/origin_of_the_toyota_production_system.html) based on customer demand (Just in Time)
-* 2007 David J. Anderson introduced as method for software development
+* Kanban est un mot japonais qui signifie _carte que l'on peut voir_.
+* 1950 Taiichi Onho a d&eacute;fini le [Toyota Production System] (http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/origin_of_the_toyota_production_system.html) bas&eacute; sur la demande des clients (Just in Time).
+* 2007 David J. Anderson l'a introduit comme m&eacute;thode pour le d&eacute;veloppement de logiciels.
 
 
 
-### Kanban Practices
+### Pratiques Kanban
 
-* Visualize the Workflow
-* Limit Work in Progress
-* Manage Flow
-* Make Process Policies Explicit
-* Feedback Loops
+* Visualiser le workflow
+* Limiter les travaux en cours
+* G&eacute;rer le processus
+* Rendre les politiques de processus explicites
+* Boucles de feedback
 
 
 
-### Visualize the Workflow - Kanban Board
+### Visualiser le workflow - Tableau Kanban
 
-* Visualize the process in columns and cards (Always visible)
-* **Column** is a step of the workflow and a **card** is a work item
-* Any task must be in the board
-* Designed by the Team (physical or virtual)
+* Visualiser le processus en colonnes et en cartes (Toujours visible)
+* Une **colonne** est une &eacute;tape du processus et une **carte** est un &eacute;l&eacute;ment de travail.
+* Toute tâche doit &ecirc;tre dans le tableau
+* Con&ccedil;u par l'&eacute;quipe (physique ou virtuel)
 
 ![Kanban Board](images/kanban/kanban-board.png) <!-- {_class="" style="height:350px"} -->
 
 
 
-### Visualize the Workflow - Kanban Card
+### Visualiser le workflow - Carte Kanban
 
-* Visual representation of a work item (requested or already in progress)
-* Review details at a glance
-* Contains valuable information about the tasks and it status (e.g: summary, responsible person, deadline, ...)
-* Identify opportunities for collaboration
-
-
-
-### Limit Work in Progress (WIP)
-
-* The number of task items that a team is currently working on in each stage
-* Frames the capacity of the team's workflow at any moment
-* Not mean to do less tasks, means to do less tasks **at the same time**
-* Helps to identify bottlenecks
-* Preventing a constant context switching between tasks
-* Defined a stable workflow and then a predictable delivery
+* Repr&eacute;sentation visuelle d'un &eacute;l&eacute;ment de travail (demand&eacute; ou d&eacute;j&agrave; en cours).
+* Examen des d&eacute;tails en un coup d'œil
+* Contient des informations pr&eacute;cieuses sur les tâches et leur statut (par exemple : r&eacute;sum&eacute;, personne responsable, date limite, ...).
+* Identifier les opportunit&eacute;s de collaboration
 
 
 
-### Manage Flow
+### Limiter les travaux en cours (WIP)
+
+* Le nombre d'&eacute;l&eacute;ments de tâches sur lesquels une &eacute;quipe travaille actuellement &agrave; chaque &eacute;tape.
+* Cadre la capacit&eacute; du workflow de l'&eacute;quipe &agrave; tout moment.
+* Ne signifie pas qu'il faut faire moins de tâches, mais qu'il faut faire moins de tâches **en m&ecirc;me temps**.
+* Aide &agrave; identifier les goulots d'&eacute;tranglement
+* Emp&ecirc;cher un changement de contexte constant entre les tâches
+* D&eacute;finit un flux de travail stable et ensuite une livraison pr&eacute;visible
+
+
+### G&eacute;rer le flux
 
 * Flow means the movement of work items through the process
 * Manages the work but not the people
@@ -64,45 +63,44 @@ DO500 <!-- {_class="title-color"} -->
 
 
 
-### Make Process Policies Explicit
+### Rendre les politiques de processus explicites
 
-* Your process should be clearly defined, published, and socialized
-* Declare explicit policies for:
-  - When move a work item from one column to the next one
-  - Priorization
-  - How to manage urgent work items
-* Policies will allow to take fast decissions without doubts or queries
+* Votre processus doit &ecirc;tre clairement d&eacute;fini, publi&eacute; et socialis&eacute;.
+* D&eacute;clarer des politiques explicites pour :
+  - Quand d&eacute;placer un &eacute;l&eacute;ment de travail d'une colonne &agrave; la suivante.
+  - La priorisation
+  - Comment g&eacute;rer les &eacute;l&eacute;ments de travail urgents
+* Les politiques permettront de prendre des d&eacute;cisions rapides sans doutes ni questions.
 
 
+### Boucle de feedback
 
-### Feedback Loops
+* S'assurer que nous r&eacute;pondons de mani&egrave;re ad&eacute;quate aux changements potentiels.
+* D&eacute;finir une fr&eacute;quence, une dur&eacute;e fixe, aller droit au but et ne jamais &ecirc;tre inutilement long.
 
-* Ensure that we adequately responding to potencial changes
-* Defined with a frequency, fixed time, straight to the point and never unnecesarily long
-
-| Event | Purpose |
+| &eacute;v&eacute;nement | Objectif |
 | --- | --- |
-| **Daily Standup** | Daily sync to share common understanding of the goals, coordinate the team effort, report on progress of work, and to communicate problems and improvements. Starts from the right column (work items closest to end) |
-| **Delivery Review** | Follow workflow or delivery process. |
-| **Risk Review** | Check, identify and/or mitigate risk in our process. |
+| **Daily Standup** | Synchronisation quotidienne pour partager une compr&eacute;hension commune des objectifs, coordonner l'effort de l'&eacute;quipe, rendre compte de l'avancement des travaux et communiquer les probl&egrave;mes et les am&eacute;liorations. Commence par la colonne de droite (&eacute;l&eacute;ments de travail les plus proches de la fin). |
+| **R&eacute;vision de la livraison** | Suivre le workflow ou le processus de livraison. |
+| **Revue des risques** | V&eacute;rifier, identifier et/ou att&eacute;nuer les risques dans notre processus. |
 
 
 
-### Kanban Metrics
+###  M&eacute;triques Kanban
 
-* **Lead Time**: Measures how much time a task spends in the Kanban board, since get in and get out. A measure for our customers
-* **Cycle Time**: Measures how much time a task spends going through the process, from when the task started.
-* **Throughput**: Measures the total amount of work delivered (completed work items)
-* Cycle time, throughput, and WIP are connected by **[Little's Law](https://en.wikipedia.org/wiki/Little%27s_law)**
+* **Lead Time**: Mesure le temps qu'une tâche passe dans le tableau Kanban, depuis son entr&eacute;e jusqu'&agrave; sa sortie. Une mesure pour nos clients
+* **Temps de cycle**:  Mesure le temps qu'une tâche passe &agrave; travers le processus, &agrave; partir du moment o&ugrave; la tâche a commenc&eacute;.
+* **Rendement**: Mesure la quantit&eacute; totale de travail fourni (&eacute;l&eacute;ments de travail termin&eacute;s).
+*  Le temps de cycle, le d&eacute;bit et l'encours sont li&eacute;s par la **[Little's Law](https://en.wikipedia.org/wiki/Little%27s_law)**
 
 ![Little's Law](images/kanban/kanban-littles-law.png)
 
-* Be focus to **reduce the Lead Time**
+* Soyez concentr&eacute; pour **r&eacute;duire le Lead Time**.
 
 
 
 <!-- .slide: data-background-image="images/chef-background.png", class="white-style" -->
-### DevOps practices used in this section:
+### Pratiques DevOps utilis&eacute;es dans cette section :
 - [Kanban](https://openpracticelibrary.com/practice/kanban/)
 - [Kanban Picture](https://openpracticelibrary.com/practice/kanban-picture/)
 - [Daily Standup](https://openpracticelibrary.com/practice/daily-standup/)

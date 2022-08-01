@@ -6,67 +6,65 @@ DO500 <!-- {_class="title-color"} -->
 
 
 ### Event Storming
-#### _What is It?_
-* Provides a repeatable, teachable technique for modeling:
-  * Event-driven systems
-  * Large microservice-based systems
-* Requires a really, really large modeling surface
-* Requires lots of stickies in a rainbow of colors with a legend to their usage
+#### _Qu'est-ce que c'est ? _
+* Fournit une technique reproductible et enseignable pour la mod&eacute;lisation :
+  * Syst&egrave;mes pilot&eacute;s par les &eacute;v&eacute;nements
+  * Les grands syst&egrave;mes de microservices
+* N&eacute;cessite une surface de mod&eacute;lisation tr&egrave;s, tr&egrave;s grande.
+* N&eacute;cessite beaucoup de post-it dans un arc-en-ciel de couleurs avec une l&eacute;gende pour leur utilisation.
 
 
 
 ### Event Storming
-#### _What is It?_
-* Who: key business stakeholders and techies
-* There will be lots of talking, a fair bit of squabbling, and periodically
-some **very** heated debate
-* No chairs!
-* Expect a tiring but fun day that achieves a great deal from the most basic of tools
-
+#### _Qu'est-ce que c'est?_
+* Qui : les principales parties prenantes de l'entreprise et les techniciens
+* Il y aura beaucoup de discussions, un peu de querelle, et p&eacute;riodiquement des d&eacute;bats **tr&egrave;s** anim&eacute;s
+* Pas de chaises !
+* Attendez-vous &agrave; une journ&eacute;e fatigante mais amusante, qui vous permettra de r&eacute;aliser de grandes choses avec les outils les plus simples.
 
 
 ### Event Storming
-#### _Where Did It Come From?_
+#### _D'o&ugrave; vient-il ?_
 ![Brandolini](images/eventstorming/brandolini.jpg) <!-- {_class="inline-image" width="350"} -->
-Event Storming was developed by Alberto Brandolini
-* Brandolini has a background in event-driven systems
-* He is an active member of the Domain-Driven Design (DDD) community
-* He started Event Storming as a guest slot in Vernon Vaughn's DDD workshop
-* First blog post about event storming was in 2013
+Event Storming a &eacute;t&eacute; d&eacute;velopp&eacute; par Alberto Brandolini.
+* Brandolini a une exp&eacute;rience des syst&egrave;mes pilot&eacute;s par les &eacute;v&eacute;nements.
+* Il est un membre actif de la communaut&eacute; DDD (Domain-Driven Design).
+* Il a commenc&eacute; l'Event Storming en tant qu'invit&eacute; dans l'atelier DDD de Vernon Vaughn.
+* Le premier article de blog sur l'Event Storming date de 2013.
 
 
 
 ### Event Storming
-#### _Why Do We Use It?_
-* Very simple modeling that is accessible to all business people
-* Engages all stakeholders and removes technical barriers:
-  * Non-technical people can actively contribute
-  * Builds a shared understanding
-  * Fail fast to solve difficult problems
-  * Deliver really useful design artifacts
+#### _Pourquoi l'utilisons-nous ?_
+* Mod&eacute;lisation tr&egrave;s simple et accessible &agrave; tous les acteurs du m&eacute;tier
+* Engage toutes les parties prenantes et supprime les barri&egrave;res techniques :
+  * Les personnes non techniques peuvent contribuer activement
+  * Construit une compr&eacute;hension partag&eacute;e
+  * Agir rapidement pour r&eacute;soudre les probl&egrave;mes difficiles
+  * Livrer des artefacts de conception vraiment utiles
 
-
-
-### Event Storming
-#### _Artifacts_
-* **Big Picture**: quickly build a shared understanding of a problem space
-* **Process Diagram**: model business processes
-* **Aggregate Modeling**: find the key microservices, operations, and a retrospective
-event model
-* **UI Modeling**: model the flow of pages in an application
 
 
 
 ### Event Storming
-#### _Tips for Success_
-* Hold a Big Picture Workshop
-* Invite the right people: business stakeholders, IT, and User Experience (UX)
-* Provide unlimited modeling space with a surface, markers, and stickies
-* Model **a whole business line** with domain events
+#### _Art&eacute;facts_
+* **Big Picture**:  construire rapidement une compr&eacute;hension partag&eacute;e d'un espace de probl&egrave;me
+* **Diagramme de processus** : mod&eacute;lisation des processus m&eacute;tier
+* **Aggregate Modeling**: trouver les microservices cl&eacute;s, les op&eacute;rations et une r&eacute;trospective. mod&egrave;le d'&eacute;v&eacute;nement
+* **UI Modeling**: mod&eacute;liser le flux de pages dans une application.
 
 
 
-## Event Storming Diagram
+### Event Storming
+#### _Conseils pour r&eacute;ussir_
+* Organiser un atelier sur la vision d'ensemble
+* Invitez les bonnes personnes : les parties prenantes de l'entreprise, l'informatique et l'exp&eacute;rience utilisateur (UX).
+* Fournissez un espace de mod&eacute;lisation illimit&eacute; avec une surface, des marqueurs et des autocollants.
+* Mod&eacute;lisez **un secteur d'activit&eacute; entier** avec des &eacute;v&eacute;nements de domaine.
+
+
+
+## Event Storming Diagramme
 
 
 
@@ -74,93 +72,93 @@ event model
 
 
 
-### Event Storming: Events
+### Event Storming: &eacute;v&eacute;nements
 ![Events](images/eventstorming/events.jpg) <!-- {_class="inline-image"} -->
-Something that happened that people care about
-* Subject --> Verb in past tense, e.g **Item Shipped**
-* Could be timed, e.g. **Nightly Accounts Reconciled**
-* A meaningful result of another thing, e.g. **Account Locked**
+Quelque chose qui est arriv&eacute; et dont les gens se pr&eacute;occupent
+* Sujet --> Verbe au pass&eacute;, par exemple **Article exp&eacute;di&eacute;**.
+* Peut &ecirc;tre programm&eacute;, par exemple **Comptes r&eacute;concili&eacute;s tous les soirs**.
+* Un r&eacute;sultat significatif d'une autre chose, par exemple **Compte verrouill&eacute;**.
 
 
 
-### Event Storming: Events
+### Event Storming: &eacute;v&eacute;nements
 ![Event](images/eventstorming/eventsticky.png) <!-- {_class="inline-image"} -->
-Where do events come from?
-* A system
-* Passing of time
-* Consequence of another event
+D'o&ugrave; viennent les &eacute;v&eacute;nements ?
+* Un syst&egrave;me
+* L'&eacute;coulement du temps
+* Cons&eacute;quence d'un autre &eacute;v&eacute;nement
 
 
 
-### Event Storming: Commands
+### Event Storming: Commandes
 ![Command](images/eventstorming/commandsticky.png) <!-- {_class="inline-image"} -->
-* A **command** is an **action** started by an **actor**
-* It represents the **decision**
-* It is usually the reverse of the **event**, e.g:
-  * Buy Ticket
-  * Cancel Reservation
+* Une **commande** est une **action** lanc&eacute;e par un **acteur**.
+* Elle repr&eacute;sente la **d&eacute;cision**
+* Elle est g&eacute;n&eacute;ralement l'inverse de l'**&eacute;v&eacute;nement**, par ex :
+  * Acheter un billet
+  * Annuler une r&eacute;servation
 
 
 
-### Event Storming: Actors
+### Event Storming: Acteurs
 ![Actor](images/eventstorming/actorsticky.png) <!-- {_class="inline-image"} -->
-An actor is the user of the system
-* Keep it fuzzy, e.g. **Joe**
-* The actor makes the decision
+Un acteur est l'utilisateur du syst&egrave;me
+* Gardez-le flou, par exemple **Joe**.
+* L'acteur prend la d&eacute;cision
 
 
 
 ### Event Storming: Questions
 ![Question](images/eventstorming/questionsticky.png) <!-- {_class="inline-image"} -->
-* Pain Points, e.g. **It takes a long time!**
-* How / What / Why?
-* Hot Spots
-* Assumptions
+* Points douloureux, par exemple **C'est long!**.
+* Comment / Quoi / Pourquoi ?
+* Points chauds
+* Hypoth&egrave;ses
 
 
 
-### Event Storming: External Systems
+### Event Storming: Syst&egrave;mes externes
 ![System](images/eventstorming/systemsticky.png) <!-- {_class="inline-image"} -->
-* Third party services
-* Existing systems
+* Services de tiers
+* Syst&egrave;mes existants
 
 
 
-### Event Storming: Read Model
+### Event Storming: Mod&egrave;le de lecture
 ![ReadModel](images/eventstorming/readmodelsticky.png) <!-- {_class="inline-image"} -->
-The **information** needed in order to make a **decision**
-* Represents an implementation
-  * Stored Procedure
-  * Query
+Les **informations** n&eacute;cessaires &agrave; la prise d'une **d&eacute;cision**.
+* Repr&eacute;sente une impl&eacute;mentation
+  * Proc&eacute;dure stock&eacute;e
+  * Requ&ecirc;te
   * Projection
-* Ties to the page layout
+* Liens avec la mise en page
 
 
 
-### Event Storming: Policies and Procedures
+### Event Storming: Politiques et proc&eacute;dures
 ![PolicyProcedure](images/eventstorming/policysticky.png) <!-- {_class="inline-image"} -->
-* Keywords to use are **always** and **immediately**
-* Procedures include:
-  * Automatic process
-  * Process manager
-  * Listener
-  * "Don't forget to..."
-  * Agreement
-  * Rules
-  * Habit
-* For example:
+* Les mots-cl&eacute;s &agrave; utiliser sont **toujours** et **imm&eacute;diatement**.
+* Les proc&eacute;dures comprennent :
+  * Processus automatique
+  * Responsable de processus
+  * &eacute;couteur
+  * "N'oubliez pas de..."
+  * Accord
+  * R&egrave;gles
+  * Habitude
+* Par exemple :
 
-  Refund Requested > Refund Policy > Issue Receipt
+  Remboursement demand&eacute; > Politique de remboursement > D&eacute;livrer un re&ccedil;u
 
 
 
 ### Event Storming: Aggregate
 ![Aggregate](images/eventstorming/aggsticky.png) <!-- {_class="inline-image"} -->
-Part of the system that **receives** the **command** and decides to **execute**
-the **event**
-* Usually a noun, e.g. **Item**
-* The aggregate is the **state machine**
-* Serve as a place to logically group commands once all event sources are identified
+Partie du syst&egrave;me qui **re&ccedil;oit** la **commande** et d&eacute;cide d' **ex&eacute;cuter**
+l'**&eacute;v&eacute;nement**.
+* G&eacute;n&eacute;ralement un nom, par exemple **Article**.
+* L'agr&eacute;gat est la **machine d'&eacute;tat**.
+* Servent de lieu pour regrouper logiquement les commandes une fois que toutes les sources d'&eacute;v&eacute;nements sont identifi&eacute;es.
 
 
 
@@ -168,17 +166,17 @@ the **event**
 
 
 
-### Event Storming: Key Takeaways
-* Builds a shared understanding of a problem space
-* Models business processes
-* Aggregate modeling to find key microservices and event model
-* Models the flow of pages in an application
-* Aligns stakeholders and IT groups
+### Event Storming:  Principaux points &agrave; retenir
+* Construire une compr&eacute;hension partag&eacute;e d'un probl&egrave;me sp&eacute;cifique
+* Mod&eacute;lisation des processus m&eacute;tier
+* Mod&eacute;lisation agr&eacute;g&eacute;e pour trouver les microservices cl&eacute;s et le mod&egrave;le d'&eacute;v&eacute;nement.
+* Mod&eacute;lisation du flux de pages dans une application
+* Aligne les parties prenantes et les groupes informatiques
 
 
 
-### Exercise
-### Event Storm for To Do List Management
+### Exercice
+### Event Storm pour la gestion d'une ToDo Liste
 ![Key](images/eventstorming/key.png) <!-- {_class="inline-image"} -->
 * In your teams, create example event storm for the Current state of the To Do List
 Management application. Cover the following things:
