@@ -1,44 +1,45 @@
 <!-- .slide: data-background-image="images/RH_NewBrand_Background.png" -->
 ## DevOps Culture and Practice <!-- {_class="course-title"} -->
-### Priority Sliders <!-- {_class="title-color"} -->
+### Curseurs de priorités<!-- {_class="title-color"} -->
 DO500 <!-- {_class="title-color"} -->
 
 
 
 <!--.slide: id="priority-sliders" -->
-## What are Priority Sliders?
+## Qu'est-ce que les curseurs de priorité ?
 
 
 
-### Priority Sliders are a visual tool for getting teams to agree which work items are the most important by trading one item against another on a scale from _least_ to _most_ important
+### Curseurs de priorités
+Un outil visuel qui permet aux équipes de se mettre d'accord sur les tâches les plus importantes en échangeant un élément par rapport à un autre sur une échelle allant du _moins_ au _plus_ important.
 
 
 
 ### Effective Priority Sliders
-![More important?](images/post-it-priority-sliders.png) <!-- {_class="fragment inline-image"} -->
-- Used to validate what items should be done next when there are debates
-- Publicly displayed
-- A finite set of topics/dimensions/areas that can be relatively prioritized against each other
+![Plus important?](images/post-it-priority-sliders.png) <!-- {_class="fragment inline-image"} -->
+- Utilisé pour valider les éléments qui doivent être faits en cas de débat.
+- Affiché publiquement
+- Un ensemble fini de sujets/dimensions/domaines qui peuvent être relativement priorisés les uns par rapport aux autres.
 
 
 
-### Why use Priority Sliders?
+### Pourquoi utiliser des curseurs de priorité ?
 - Enables an alignment and consensus on areas of focus
 - Projects often involve trade offs, agreement is key
 - Provides clarifications across stakeholder groups of motivations and desires
 
 
 
-### Exercise - Priority Sliders
-![Priority Sliders Example](images/example-priority-sliders.jpg) <!-- {_class="inline-image"} -->
+### Exercice - Curseurs de priorité
+![Curseurs de priorités Exemple](images/example-priority-sliders.jpg) <!-- {_class="inline-image"} -->
 #### In table groups, work together to:
-  1. Draw a 5 heading priority slider chart
-  2. Consider the areas identified from Target Outcomes practice
-  3. Discuss where you agree as a team the priorities, 1 to 5
-  4. Note no priority can be the same level and trade-offs must occur
+  1. Dessinez 5 un tableau a 5 colonnes pour les curseurs de priorité .
+  2. Examiner les domaines identifiés à partir de la pratique de Target Outcomes.
+  3. Discutez en équipe de l'endroit où positioner les priorités, de 1 à 5.
+  4. otez qu'aucune priorité ne peut être de même niveau et qu'il faut faire des compromis.
 
 
 
 <!-- .slide: data-background-image="images/chef-background.png", class="white-style" -->
-### DevOps practices used in this section:
+### Les pratiques DevOps utilisées dans cette section :
 - [Priority Sliders](https://openpracticelibrary.com/practice/priority-sliders/)

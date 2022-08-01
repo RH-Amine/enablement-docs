@@ -1,16 +1,16 @@
 <!-- .slide: data-background-image="images/RH_NewBrand_Background.png" -->
 ## DevOps Culture and Practice <!-- {_class="course-title"} -->
-### What is DevOps? <!-- {_class="title-color"} -->
+### Qu'est-ce que le DevOps ? <!-- {_class="title-color"} -->
 DO500 <!-- {_class="title-color"} -->
 
 
 
-## Exercise - DevOps is...
-_Complete the sentence "DevOps is..."_
-1. Everyone grab one sticky note.
-2. Complete the sentence "DevOps is ..." with one or two words that first
-come to mind.
-3. Add your sticky to the wall.
+## Exercice - DevOps est...
+_Complétez la phrase "DevOps est..."_.
+1. Chacun prend un post-it.
+2. Complétez la phrase "DevOps est ..." avec un ou deux mots qui vous viennent à l'esprit.
+qui vous viennent à l'esprit.
+3. Ajoutez post-it au mur.
 
 
 
@@ -20,17 +20,17 @@ come to mind.
 
 
 <!-- .slide: data-transition="slide-in fade-out" -->
-## What is DevOps?
+## Qu'est-ce que le DevOps ?
 
                               Culture?                       Agile?
 
                                           Pipelines?
-                      Automation?                                          Mindset?
-                                      A Role?
+                      Automatisation?                                          Etat d'esprit?
+                                      Un Role?
                                                        CI/CD?
                                                                   Dev & Ops?
-                              Tools?
-                                            Way of Working?
+                              Outils?
+                                            Méthode de travail?
 
 
 
@@ -39,138 +39,137 @@ come to mind.
 
                               Culture
 
-                                                                           Mindset
+                                                                           Etat d'esprit?
 
-                                            Way of Working
+                                            Méthode de travail?
 
 
 
-### The Three Ways of DevOps
+### Les trois voies du DevOps
 #### _The DevOps Handbook_
 #### by Gene Kim, et. al.
 ![DevOps Handbook](images/devopshandbook.jpg)
 
 
 
-### The Three Ways of DevOps
-#### _The First Way: Systems Thinking_
-The First Way emphasizes the performance of the entire system, as opposed to the performance of a specific silo of work or department. This can be as large as a division or as small as an individual contributor. <!-- {_class="medium para"} -->
+### Les trois voies du DevOps
+####_La première voie : La pensée systémique_
+La première voie met l'accent sur la performance de l'ensemble du système, par opposition à la performance d'un silo de travail ou d'un département spécifique. Il peut s'agir d'une division ou d'un contributeur individuel. <!-- {_class="medium para"} -->
 
 _The DevOps Handbook_ <!-- {_class="small" style="text-align: right;"} -->
 
 
 
-### The Three Ways of DevOps
-#### _The Second Way: Amplify Feedback Loops_
-* The Second Way is about creating more frequent feedback loops.
+### Les trois voies du DevOps
+#### _La seconde voie : Amplifier les boucles de feedback_
+* La seconde voie consiste à créer des boucles de feedback plus fréquentes..
 
-* The goal of almost any process improvement initiative is to shorten and amplify feedback loops so necessary corrections can be continually made.
+* L'objectif de la plupart des initiatives d'amélioration des processus est de raccourcir et d'amplifier les boucles de rétroaction afin que les corrections nécessaires puissent être apportées en permanence.
 
-* The outcomes of the Second Way include:
-  * Understanding and responding to all customers, internal and external.
-  * Shortening and amplifying all feedback loops
-  * Embedding knowledge where we need it
-
-_The DevOps Handbook_ <!-- {_class="small" style="text-align: right;"} -->
-
-
-
-### The Three Ways of DevOps
-#### _The Third Way: Culture of Continual Experimentation and Learning_
-* The Third Way is about creating a culture that fosters two things:
-  * Continual experimentation, taking risks and learning from failure
-  * Understanding that repetition and practice is the prerequisite to mastery
-
-* Experimentation and taking risks are what ensures that we keep pushing to improve.
-
-* The outcomes of the Third Way include:
-  * Allocating time for the improvement of daily work
-  * Creating rituals that reward the team for taking risks
-  * Introducing faults into the system to increase resilience
+* Les résultats de la deuxième voie comprennent :
+  * Comprendre et répondre à tous les clients, internes et externes.
+  * Raccourcir et amplifier toutes les boucles de feedback.
+  * Intégrer les connaissances là où elles sont nécessaires
 
 _The DevOps Handbook_ <!-- {_class="small" style="text-align: right;"} -->
 
 
 
-### DevOps as It Relates to Agile
+### Les trois voies du DevOps
+#### _La troisième voie : La culture de l'expérimentation et de l'apprentissage continus_.
+* La troisième voie consiste à créer une culture qui favorise deux choses :
+  * L'expérimentation continue, la prise de risques et l'apprentissage par l'échec.
+  * Comprendre que la répétition et la pratique sont les conditions préalables à la maîtrise.
+
+* L'expérimentation et la prise de risques sont les garants de notre volonté d'amélioration continue.
+
+* Les résultats de la troisième voie comprennent :
+  * L'allocation de temps pour l'amélioration du travail quotidien.
+  * Créer des rituels qui récompensent l'équipe pour la prise de risques.
+  * Introduire des défauts dans le système pour augmenter la résilience.
+
+_The DevOps Handbook_ <!-- {_class="small" style="text-align: right;"} -->
+
+
+
+### DevOps en relation avec Agile
 ![Feedback Loop](images/DevOps/feedbackloop.png)
 
 
 
-### Core Competencies of DevOps
-* Test Driven Development and Automated Tests
+### Compétences essentielles de DevOps
+* TDD et tests automatisés
 * Configuration as Code
-* Continuous Integration
-* Continuous Delivery
-* Continuous Deployment
-* Continuous Improvement
-
+* Intégration continue
+* Livraison continue
+* Déploiement continu
+* Amélioration continue
 
 
 ### DevOps Anti-Patterns
-#### _Throw it over the wall_
+#### _Jetez-le par-dessus le mur_.
 ![ThrowItOverWall](images/DevOps/antiA.png)
 https://web.devopstopologies.com/ <!-- {_class="small"} -->
 
 
 
 ### DevOps Anti-Patterns
-#### _DevOps Team Silo_
+#### _Equipe DevOps Silo_
 ![DevOpsTeamSilo](images/DevOps/antiB.png)
 https://web.devopstopologies.com/ <!-- {_class="small"} -->
 
 
 
 ### DevOps Anti-Patterns
-#### _Dev Doesn't Need Ops_
+#### _Dev n'ont pas besoin d'Ops_
 ![NoNeedOps](images/DevOps/antiC.png)
 https://web.devopstopologies.com/ <!-- {_class="small"} -->
 
 
 
 ### DevOps Anti-Patterns
-#### _DevOps as Tool Team_
+#### _DevOps est une équipe pour l'outillage_
 ![DevOpsToolTeam](images/DevOps/antiD.png)
 https://web.devopstopologies.com/ <!-- {_class="small"} -->
 
 
 
 ### DevOps Anti-Patterns
-#### _Re-branded Sys Admin_
+#### _Rebaptisé Sys Admin_
 ![RebrandSysAdmin](images/DevOps/antiE.png)
 https://web.devopstopologies.com/ <!-- {_class="small"} -->
 
 
 
 ### DevOps Anti-Patterns
-#### _Ops Embedded in Dev Team_
+#### _Ops dans une équipe de dev_
 ![EmbeddedOps](images/DevOps/antiF.png)
 https://web.devopstopologies.com/ <!-- {_class="small"} -->
 
 
 
 ### DevOps Anti-Patterns
-#### _Dev and DBA Silos_
+#### _Dev et DBA Silos_
 ![DevOpsDBASilo](images/DevOps/antiG.png)
 https://web.devopstopologies.com/ <!-- {_class="small"} -->
 
 
 
 ### DevOps Success
-#### _Fully Shared Ops Responsibilities_
+#### _Responsabilités d'exploitation entièrement partagées_
 ![DevOpsSuccess](images/DevOps/dosuccess.png)
 https://web.devopstopologies.com/ <!-- {_class="small"} -->
 
 
 
 ### Summary
-#### _Defining DevOps_
-"I know it when I see it."
+#### _Définition du DevOps_
+"Je le reconnais quand je le vois."
 
 
 
 <!-- .slide: data-background-image="images/chef-background.png", class="white-style" -->
-### DevOps practices used in this section:
+### Pratiques DevOps utilisées dans cette section :
 - [Continuous Integration](https://openpracticelibrary.com/practice/continuous-integration/)
 - [Continuous Delivery](https://openpracticelibrary.com/practice/continuous-delivery/)
 - [Continuous Deployment](https://openpracticelibrary.com/practice/continuous-deployment/)

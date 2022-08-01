@@ -1,67 +1,66 @@
 <!-- .slide: data-background-image="images/RH_NewBrand_Background.png" -->
 ## DevOps Culture and Practice <!-- {_class="course-title"} -->
-### Non-Functional Testing <!-- {_class="title-color"} -->
+### Tests non fonctionnels  <!-- {_class="title-color"} -->
 DO500 <!-- {_class="title-color"} -->
 
 
 
-## Group Activity
+## Activité de groupe
 
 
 
 <!-- .slide: id="non-functional-testing"-->
-## Non-Functional Testing
+## Tests non fonctionnels 
 
 
 
-### Non-Functional Testing
-#### _What Is It?_
-Non-Functional Testing provides valuable insights into code quality, security, and
-application performance. Non-functional tests can be automated and incorporated
-into **continuous integration**.
+### Tests non fonctionnels 
+#### _Qu'est-ce que c'est ? _
+Les tests non fonctionnels fournissent des indications précieuses sur la qualité du code, la sécurité et les
+performances de l'application. Les tests non fonctionnels peuvent être automatisés et incorporés
+dans **l'intégration continue**.
 
 
 
-### Non-Functional Testing
-#### _How Does It Help?_
-* Identify common code gotchas and pitfalls earlier
-* Tighten the feedback loop by executing non-functional tests earlier in the
-project lifecycle
-* Improve code readability by following a coding standard
-* Improve trust in the code quality
-* Bring together security and development teams earlier
-
+### Tests non fonctionnels 
+#### _En quoi cela peut-il aider ?_
+* Identifier plus tôt les problèmes de code et les pièges les plus courants.
+* Resserrer la boucle de feedback en exécutant des tests non fonctionnels plus tôt dans le
+cycle de vie du projet
+* Améliorer la lisibilité du code en suivant une norme de codage.
+* Améliorer la confiance dans la qualité du code
+* Rapprocher plus tôt les équipes de sécurité et de développement
 
 
 <!-- .slide: id="non-functionls-strike-back" -->
-## The Non-Functionals Strike Back
+## Les non-fonctionnels contre-attaquent
 
 
 
-### Lab Exercise 5: The Non-Functionals Strike Back
-* Add code coverage reporting
-* Add code style checking
-* Run some light performance tests
-* Run security tests to find vulnerabilities in the application
+### Lab Exercice 5: Les non-fonctionnels contre-attaquent
+* Ajout de rapports sur la couverture du code
+* Ajout de la vérification du style du code
+* Exécuter quelques tests de performance légers
+* Exécuter des tests de sécurité pour trouver des vulnérabilités dans l'application.
 
 
 
-### What new Tools and Frameworks will we use?
+### Quels sont les nouveaux outils et cadres que nous utiliserons ?
 ![NFT](images/nft/lab5tech.png)
 
 
 
-### The Big Picture
+### La vue d'ensemble
 ![BP5](images/nft/bp-5-non-functionals.jpg)
 
 
 
-### Let's Go!!!
-Lab Exercise 5: _The Non-Functionals Strike Back_
+### C'est parti ! !!
+Lab Exercice 5: Les non-fonctionnels contre-attaquent
 
 
 
 <!-- .slide: data-background-image="images/chef-background.png", class="white-style" -->
-### DevOps practices used in this section:
-- [Continuous Integration](https://openpracticelibrary.com/practice/continuous-integration/)
-- [Test Automation](https://openpracticelibrary.com/practice/test-automation/)
+### Les pratiques DevOps utilisées dans cette section :
+- [Intégration Continue](https://openpracticelibrary.com/practice/continuous-integration/)
+- [Test automatiques](https://openpracticelibrary.com/practice/test-automation/)

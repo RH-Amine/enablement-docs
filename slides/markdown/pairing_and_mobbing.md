@@ -8,49 +8,44 @@ DO500 <!-- {_class="title-color"} -->
 <!--.slide: id="pair-mob" -->
 ### Pair Programming
 ![Pair Programming](images/PairAndMob/coaching-coders-coding-7374.jpg) <!-- {_class="inline-image"} -->
-**Pair programming** is a practice used in e**X**treme **P**rogramming in which
-two programmers work together at one computer.
-
+La **Pair programming** est une pratique utilisée en e**X**treme **P**rogramming dans laquelle
+deux programmeurs travaillent ensemble sur un même ordinateur.
 
 
 ### Mob Programming
 ![Mob Programming](images/PairAndMob/chairs-developer-development-1181376.jpg) <!-- {_class="inline-image"} -->
-**Mob programming** is a software development approach where the whole team
-works on the same thing, at the same time, in the same space, and at the same
-computer.
+**Mob programming** est une approche de développement logiciel où toute l'équipe
+travaille sur la même chose, en même temps, dans le même espace et sur le même ordinateur.
+ordinateur.
+
+### Exercice - Pairing and Mobbing
+_Dessin Individuel_
+
+1. Chacun prend un petit post-it.
+2. Chaque personne prend un stylo de couleur différente.
+3. Dessinez la figure publique sur votre propre post-it.
 
 
 
-### Exercise - Pairing and Mobbing
-_Individual Drawing_
-
-1. Everyone grab a small post-it.
-2. Each person grab a different color pen.
-3. Draw Public Figure on your own sticky note.
-
+### Exercice - Pairing and Mobbing
+_Dessin par paire_
+1. Par deux.
+2. Chaque paire prend un post-it de taille moyenne.
+3. À tour de rôle, dessinez un élément de personnage publique.
 
 
-### Exercise - Pairing and Mobbing
-_Pair Drawing_
-1. Assemble in pairs.
-2. Each pair grab a medium post-it.
-3. Take turns drawing an element of Public Figure.
+### Exercice - Pairing and Mobbing
+_Dessin par Mob_
+1. Rassemblez-vous en groupes de table.
+2. Chaque table utilise un post-it chevalet.
+3. À tour de rôle, dessinez un élément du personnage publique.
 
 
+### Exercice - A emporter
 
-### Exercise - Pairing and Mobbing
-_Mob Drawing_
-1. Assemble in table groups.
-2. Each table use an easel post-it.
-3. Take turns drawing an element of Public Figure.
-
-
-
-### Exercise - Takeaway
-
-* Mobbing helps share expertise with entire teams
-* Pairing helps deliver efficiently as knowledge grows
-* Various situations demand different delivery approaches
+* Le mobbing permet de partager l'expertise avec des équipes entières
+* Le jumelage permet de livrer efficacement à mesure que les connaissances augmentent.
+* Différentes situations exigent différentes approches de livraison
 
 
 
@@ -59,6 +54,6 @@ _Mob Drawing_
 
 
 <!-- .slide: data-background-image="images/chef-background.png", class="white-style" -->
-### DevOps practices used in this section:
+### Les pratiques DevOps utilisées dans cette section :
 - [Pair Programming](https://openpracticelibrary.com/practice/pair-programming/)
 - [Mob Programming](https://openpracticelibrary.com/practice/mob-programming/)

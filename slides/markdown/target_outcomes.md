@@ -6,35 +6,37 @@ DO500 <!-- {_class="title-color"} -->
 
 
 <!--.slide: id="target-outcomes" -->
-## Learning Target Outcomes
-_What are Target Outcomes?_
+## Apprendre Target Outcomes
+_Qu'est ce que Target Outcomes?_
 
 
 
-### Learning Target Outcomes
+### Apprendre Target Outcomes
 #### _Target Outcomes..._
-- Are a tool to capture and articulate the goals and outcomes a team are striving to deliver.
-- Can include customer (end user) based outcomes as well as business and capability based outcomes.
-- Often harnesses and summarizes the findings and learnings from other Discovery practices into a finite set of statements that can be publicly displayed for team and stakeholders to regularly reference.
+- Il s'agit d'un outil permettant de saisir et d'articuler les objectifs et les résultats qu'une équipe s'efforce d'obtenir.
+- Ils peuvent inclure des résultats basés sur le client (utilisateur final) ainsi que des résultats basés sur les activités et les capacités.
+- Elles exploitent et résument souvent les résultats et les enseignements d'autres pratiques en un ensemble limité de propositions qui peuvent être affichées publiquement pour que l'équipe et les parties prenantes puissent s'y référer régulièrement.
 
 
 
-### Learning Target Outcomes
-#### _What are **our** Target Outcomes?_
-- Generate enthusiasm for DevOps culture and practices.
-- Explore all principle practices used in everyday discovery and delivery.
-- Have fun!
-- _More?_
+
+
+### Apprendre Target Outcomes
+#### Quels sont **nos** Target Outcomes?_
+- Susciter l'enthousiasme pour la culture et les pratiques DevOps.
+- Explorez toutes les pratiques de principe utilisées dans la découverte et la livraison quotidiennes.
+- Amusez-vous !
+- _Plus ?_
 
 
 
-### Learning Target Outcomes
-#### _What are **your** Target Outcomes?_
-- Write down your own thoughts
-- Add them to the wall
+### Apprendre Target Outcomes
+#### _Quels sont **vos** Target Outcomes?_
+- Notez vos propres pensées
+- Ajoutez-les au mur
 
 
 
 <!-- .slide: data-background-image="images/chef-background.png" class="white-style" -->
-### DevOps practices used in this section:
+###Les pratiques DevOps utilisées dans cette section :
 - [Target Outcomes](https://openpracticelibrary.com/practice/target-outcomes/)
