@@ -1,25 +1,25 @@
 <!-- .slide: data-background-image="images/RH_NewBrand_Background.png" -->
 ## DevOps Culture and Practice <!-- {_class="course-title"} -->
-### User Story Mapping and Value Slicing <!-- {_class="title-color"} -->
+### Cartographie de User Story  et découpage  <!-- {_class="title-color"} -->
 DO500 <!-- {_class="title-color"} -->
 
 
 
 <!-- .slide: id="usm" -->
-## User Story Mapping
+## Cartographie de User Story  
 
 
 
 ### User Stories
-#### As a < type of user >, I want < some goal > so that < some reason >
-As a learner, I want to stay awake so that I can be attentive and listen to teacher
+#### En tant que < type d'utilisateur >, je veux < un objectif > pour que < une raison >
+En tant qu'apprenant, je veux rester éveillé afin de pouvoir être attentif et écouter l'enseignant.
 
-* A promise to create a conversation
-  * Card
+* Une promesse pour créer une conversation
+  * Carte
   * Conversation
   * Confirmation
-* Enough detail to give direction for completion
-* Provide value to the end consumer
+* Suffisamment de détails pour donner une direction à l'achèvement
+* Apporter de la valeur au consommateur final
 
 
 
@@ -28,7 +28,7 @@ As a learner, I want to stay awake so that I can be attentive and listen to teac
 
 
 
-#### SHARED DOCUMENTATION &#8800; SHARED UNDERSTANDING
+#### DOCUMENTATION PARTAGÉE  &#8800; COMPRÉHENSION PARTAGÉE
 ![Example1](images/value-slicing/glad-we-all-agree-1.png)
 
 
@@ -37,49 +37,46 @@ As a learner, I want to stay awake so that I can be attentive and listen to teac
 
 
 
-### User Story Mapping
-> **User Story Mapping is about having a good old-fashioned conversation and then organizing it in the form of a map.**
+### Cartographie de User Story
+> **Le User Story Mapping consiste à avoir une bonne vieille conversation et à l'organiser sous la forme d'une carte.**
 > > -Jeff Patton
 
-> **User Story Mapping is a visualisation tool that drives groups towards a shared understanding.**
+> **Le User Story Mapping est un outil de visualisation qui conduit les groupes vers une compréhension partagée.**
 > > -Me
 
 
 
-### User Story Mapping
-#### _What is It?_
-* Frame the opportunity, goal, outcome, and value
-* Tell the story of the product from left to right (user steps)
-* Go back and talk about and capture the details of each step
+### Cartographie de User Story
+#### _Qu'est-ce que c'est ?_
+* Cadrer l'opportunité, le but, le résultat et la valeur.
+* Raconter l'histoire du produit de gauche à droite (étapes de l'utilisateur).
+* Revenez en arrière, parlez et saisissez les détails de chaque étape.
 
 
 
-
-### Exercise -  Mapping Stories for "getting to work"
-*Scenario* -> You woke up late and you must get to an early morning meeting at work
-and cannot miss it. What **must** you do to prepare for work and get there on time?
-1. As an individual, capture on stickies things you do from the moment you wake up until you arrive at work<!-- {_class="fragment"  data-fragment-index="1"} -->
-2. As a team, add all activities to the story map and remove duplicates. If some are similar but slightly different, do not remove as duplicates<!-- {_class="fragment"  data-fragment-index="2"} -->
-3. Cluster similar activities and capture themes above them<!-- {_class="fragment"  data-fragment-index="3"} -->
+### Exercice - Cartographier les histoires pour "se rendre au travail".
+*Scénario* -> Vous vous êtes réveillé tard et vous devez vous rendre à une réunion matinale au travail. Et vous  ne pouvez pas la manquer.. Que **doit**-on faire pour se préparer au travail et arriver à l'heure ?
+1. À titre individuel, notez sur les post-it tout ce que vous faites depuis votre réveil jusqu'à votre arrivée au travail.<!-- {_class="fragment"  data-fragment-index="1"} -->
+2. En équipe, ajoutez toutes les activités à la story map et supprimez les doublons. Si certaines sont similaires mais légèrement différentes, ne les supprimez pas en tant que doublons.<!-- {_class="fragment"  data-fragment-index="2"} -->
+3. Regrouper les activités similaires et capturer les thèmes au-dessus d'elles<!-- {_class="fragment"  data-fragment-index="3"} -->
 
 
 
 
 <!-- .slide: id="value-slicing" -->
-## Value Slicing
+## Découpage des valeurs
 
 
 
-#### PRODUCT SLICING GONE BAD!
+#### LE DÉCOUPAGE DU PRODUIT A MAL TOURNÉ !
 ![Example1](images/value-slicing/slicing-gone-wrong.jpg )
 
 
 
-### Value Slicing
-#### _What Is It?_
-The goal of **value slicing** is to divide user stories into iterations such
-that it forms the outline of a plan. Usually the first iteration builds a
-minimally viable product.
+### Découpage des valeurs
+#### _Qu'est-ce que c'est ?_
+Le but du **value slicing** est de diviser les user stories en itérations de telle sorte que
+que cela forme l'ébauche d'un plan. Habituellement, la première itération construit un produit minimalement viable.
 
 
 
@@ -89,18 +86,18 @@ minimally viable product.
 
 
 
-### Exercise - Value Slicing for "getting to work"
-*Scenario* -> You woke up late and you must get to an early morning meeting at work
-and cannot miss it. What **must** you do to prepare for work and get there on time?
+### Exercice - Découpage de la valeur pour "se mettre au travail".
+*Scénario* -> Vous vous êtes réveillé tard et vous devez vous rendre à une réunion matinale au travail.
+et vous ne pouvez pas la manquer. Que **doit** vous faire pour vous préparer au travail et arriver à l'heure ?
 
-1. As a team, draw a line on the user story mapping board representing what
-must be done<!-- {_class="fragment"  data-fragment-index="1"} -->
-2. Discuss which stories are absolutely necessary given the scenario<!-- {_class="fragment"  data-fragment-index="2"} -->
-3. Move stories below the line that are not absolutely necessary based on
-consensus of the team<!-- {_class="fragment"  data-fragment-index="3"} -->
+1. En équipe, tracez une ligne sur le tableau de cartographie des histoires d'utilisateurs représentant ce qui
+ce qui doit être fait<!-- {_class="fragment"  data-fragment-index="1"} -->
+2. Discutez des US qui sont absolument nécessaires compte tenu du scénario<!-- {_class="fragment"  data-fragment-index="2"} -->
+3. Déplacer en dessous de la ligne les US qui ne sont pas absolument nécessaires en se basant sur le
+consensus de l'équipe<!-- {_class="fragment"  data-fragment-index="3"} -->
 
 
 
 <!-- .slide: data-background-image="images/chef-background.png", class="white-style" -->
-### DevOps practices used in this section:
+### Pratiques DevOps utilisées dans cette section :
 - [User Story Mapping](https://openpracticelibrary.com/practice/user-story-mapping/)
