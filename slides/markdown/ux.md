@@ -6,14 +6,14 @@ DO500 <!-- {_class="title-color"} -->
 
 
 <!-- .slide: id="ux" -->
-### Exercise - Do you know what is....
+### Exercice - Savez-vous ce qu'est ....
 
 ![UserTopics](images/usm/ux_topics.png) <!-- {_class="" style="border:none; box-shadow:none;"} -->
 
-![Excercise](images/exercise.png) <!-- {_class="" style="border:none; box-shadow:none; height:100px; float:left; margin-left:100px;"} -->
-1. Break out into teams and research a topic [5mins]
-2. Generate a presentation with graphic [5mins]
-3. Playback your findings [3mins]
+![Excercice](images/exercise.png) <!-- {_class="" style="border:none; box-shadow:none; height:100px; float:left; margin-left:100px;"} -->
+1. Répartissez-vous en équipes et faites des recherches sur un sujet [5 minutes].
+2. Créez une présentation avec un graphique [5 minutes].
+3. Présentez vos résultats [3 minutes].
 
 
 
@@ -39,27 +39,23 @@ DO500 <!-- {_class="title-color"} -->
 
 
 
-### Empathy Mapping
-#### _What Is It?_
-* A tool to capture and visualize what key stakeholders are sensing when in a
-particular context or completing a set of tasks.
-* A way to form a better understanding of users and build personas
-* Information is captured directly from interviews, observations, and other
-facilitated conversation exercises.
-* Senses captured can include what the person is seeing, thinking, doing, and feeling.
-* Originated from Dave Gray of [XPLANE](http://www.xplane.com/)
+### Carte de l'empathie
+#### _Qu'est-ce que c'est ? _
+* Un outil pour capturer et visualiser ce que les acteurs cl&eacute;s ressentent lorsqu'ils sont dans un contexte particulier ou lorsqu'ils accomplissent un ensemble de tâches.
+* Un moyen de mieux comprendre les utilisateurs et de cr&eacute;er des personages.
+* L'information est saisie directement &agrave; partir d'entretiens, d'observations et d'autres exercices de conversation guid&eacute;s.
+* Les sentiments captur&eacute;s peuvent inclure ce que la personne voit, pense, fait et ressent.
+* Cr&eacute;&eacute; par Dave Gray de [XPLANE] (http://www.xplane.com/)
 
 
 
-### Empathy Mapping
-#### _Why Use It?_
-* Captures information and learning directly from the end user affected by the
-system/application/solution in question.
-* Enables a direct connection between important stakeholders and developers, e.g.
-developers of an application can learn directly from end users using it.
-* The tool identifies pain points, opportunities, and starts to form a basis for
-improvement and optimization.
-* The tool can be used to move from user empathy to value propositions.
+### Carte de l'empathie
+#### _Pourquoi l'utiliser ?_
+* Capture l'information et l'apprentissage directement de l'utilisateur final affect&eacute; par le syst&egrave;me, l'application ou la solution en question.
+* Permet une connexion directe entre les parties prenantes importantes et les d&eacute;veloppeurs, par ex.
+les d&eacute;veloppeurs d'une application peuvent apprendre directement des utilisateurs finaux qui l'utilisent.
+* L'outil identifie les points de douleur, les opportunit&eacute;s et commence &agrave; former une base pour l'am&eacute;lioration et l'optimisation.
+* L'outil peut &ecirc;tre utilis&eacute; pour passer de l'empathie de l'utilisateur aux propositions de valeur.
 
 
 
@@ -67,49 +63,50 @@ improvement and optimization.
 
 
 
-### **GREAT NEWS!**
+### **BONNE NOUVELLE!**
 ![Announcement](images/usm/announcement.png) <!-- {_class="" style="border:none; box-shadow:none; height:200px; float:left;"} -->
 
 MORNING ROUTINE VENTURES <!-- {_class="" style="margin-top: 100px; text-align:left;"} -->
-Wants to invest in the ‘people that are late for work market’!
+souhaite investir dans le marché des "personnes en retard au travail" !
 
-<p align="left">**BIG OPPORTUNITY !** </p>
+<p align="left">**EXCELLENTE OPPORTUNITE !** </p>
 
 
 
-### Exercise
+### Exercice
 
 ![LeanUX](images/usm/lean_ux.jpg) <!-- {_class="" style="border:none; box-shadow:none; height:300px; float:right;"} -->
 <p align="left" width="200px">Invent a product based on your value slicing excercise information.  <!-- {_class="" style="width:500px;"} -->
 
-* **Step 1** - User Interview [5 mins]
-* **Step 2** - Sketch - Prototype [10 mins]
-* **Step 3** - User Testing [5 mins]
-* **Step 4** - Build with Lego [15 mins]
+* **Étape 1** - Entretien avec l'utilisateur [5 mn].
+* **Étape 2** - Esquisse - Prototype [10 mins]
+* **Étape 3** - Test utilisateur [5 mins]
+* **Étape 4** - Construction en Lego [15 min.]
 
-<p>Quick Tips - Use an empathy map, Ask 5 ladder technique : WHY?</p><!--{_class="" style="text-align:left; font-size: smaller; font-weight: 100;"} -->
+<p>Conseils rapides - Utilisez une carte d'empathie, la technique des 5 échelles : POURQUOI ?</p><!--{_class="" style="text-align:left; font-size: smaller; font-weight: 100;"} -->
 
 
 
-### User interview - useful tips
+### Entretien avec l'utilisateur - conseils utiles
 ![LeanUX](images/usm/interview.png) <!-- {_class="" style="border:none; box-shadow:none; height:150px; float:right; margin-left:200px;"} -->
 
-* Well crafted open questions:
-<p> *e.g. ~~Do you like...?~~ What do you like about...?*
-* Dig deeper, follow up:
-<p> *e.g. you mentioned it was hard, tell me more about why...*
-* Do not use jargon.
-* Embrace the awkward silence.
-* Keep your reaction neutral.
-* Do not mention the solution until the end.
+* Des questions ouvertes bien construites :
+<p> *e.g. ~~Aimez-vous... ? ~~ Qu'est-ce que vous aimez dans... ? *
+* Creusez plus profondément, faites un suivi :
+<p> *e.g. vous avez mentionné que c'était difficile, dites-moi plus sur pourquoi...*.
+* N'utilisez pas de jargon.
+* Embrassez le silence gênant.
+* Gardez votre réaction neutre.
+* Ne mentionnez pas la solution avant la fin.
 
 
 
-### **TEAM PRESENTATIONS**
+### **LES PRÉSENTATIONS DES ÉQUIPES**
 ![Presentation](images/usm/presentation.jpg) <!-- {_class="" style="border:none; box-shadow:none; height:350px; float:left; margin-left:100px;""} -->
 
-* Initial Idea<!-- {_class="" style="margin-top: 120px; text-align:left;"} -->
-* User Interview
-* Product
-* User Feedback
-* Learnings & Future Plans
+* Idée initiale<!-- {_class="" style="margin-top: 120px; text-align:left;"} -->
+* Entretien avec l'utilisateur
+* Produit
+* Feedback de l'utilisateur
+* Apprentissages et plans futurs
+

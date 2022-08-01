@@ -1,103 +1,102 @@
 <!-- .slide: data-background-image="images/RH_NewBrand_Background.png"  -->
 ## DevOps Culture and Practice <!-- {_class="course-title"} -->
-### Retrospectives <!-- {_class="title-color"} -->
+### RetrospeRétrospectivesctives <!-- {_class="title-color"} -->
 DO500 <!-- {_class="title-color"} -->
 
 
 
 <!-- .slide: id="retrospectives" -->
-### Retrospectives
-#### _What are Retrospectives?_
+### Rétrospectives
+#### _Que sont les rétrospectives ?_
+
+
+
+### Rétrospectives
+
+Les rétrospectives sont une pratique utilisée par les équipes pour **réfléchir** à leur façon de travailler, et **devenir continuellement meilleurs** dans ce qu'ils font. Elles sont destinées à aider les équipes à **s'améliorer**.
+
+<!-- {_class="fragment" data-fragment-index="1"} -->"*À intervalles réguliers, l'équipe réfléchit à la manière de devenir plus efficace, puis adapte et ajuste son comportement en conséquence*".
+
+<!-- {_class="fragment" data-fragment-index="1"} --> **- 12ème principe du Manifeste Agile -**
+
+
+
+### Rétrospectives
+#### _Pourquoi utiliser une rétrospective ?_
+- Amélioration de la productivité - *Aide les équipes à évaluer leur situation et à réduire le temps perdu*.
+- Amélioration des compétences - *Partager les connaissances et fixer des objectifs d'apprentissage pour les autres membres de l'équipe*.
+- Amélioration de la qualité - *Écrire un meilleur code signifie moins de retouches et moins de bogues*.
+- Amélioration des capacités - *Déterminer la solution optimale pour choisir les fonctionnalités qui apportent une valeur ajoutée. être plus productif, d'améliorer les capacités et la qualité augmente la capacité*.
+- Amélioration de la camaraderie - *Fournir un environnement constructif pour une bonne dynamique d'équipe*.
 
 
 
 ### Retrospectives
-
-Retrospectives are practice used by their teams to **reflect** on their way of working, and **continuously become better** in what they do. They are meant to help teams **keep improving.**
-
-<!-- {_class="fragment" data-fragment-index="1"} -->"*At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly*"
-
-<!-- {_class="fragment" data-fragment-index="1"} --> **- 12th Principle of the Agile Manifesto -**
-
-
-
-### Retrospectives
-#### _Why use a Retrospective?_
-- Improved productivity - *Helps teams to assess their situation and reduce waste*
-- Improved capability - *Share knowledge and set goals for other team members to learn*
-- Improved quality - *Writing better code means less rework and less bugs*
-- Improved capacity - *Determine optimal solution for choosing features that add value. Being more productive, improving capability, and improving quality increases capacity*
-- Improved camaraderie - *Provide a constructive environment for a good team dynamic*
-
-
-
-### Retrospectives
-#### _Retrospective Anti-patterns_
+#### _Rétrospective Anti-patterns_
 ![Cry Emoji](images/cryemoji.png) <!-- {_class="inline-image"} -->
 
-**Teams do not have them**
+**Les équipes n'en ont pas**
 
-_So they never improve_
+_Alors elles ne s'amélioreront jamais_
 
-OR  
+OU  
 
-**Teams have them**
+**Les équipes en ont**
 
-_But they are done poorly and teams do not follow up on identified items_
-
-
-
-### Retrospectives
-#### _Guidelines_
-- Shorten the time between each one.
-- Have ground rules for the session visible.
-- Start with an update on the previous retrospective items.
-- Focus discussions on what you are able to change.
-- Always end on a high note.
+_Mais ils sont mal faits et les équipes ne font pas le suivi des éléments identifiés._
 
 
-
-### Retrospectives
-#### _Popular Formats_
-- Round the circle reflection
-- Starfish (Stop/Start/Continue/More/Less)
-- Happy/Sad/Glad
-- Timeline
-- Sailboat (Island/Wind/Anchor/Rocks)
-- Deep dive on specific problem area
-  - Fishbone
-  - 5 Whys
+### Rétrospectives
+#### _Recommandations_
+- Raccourcissez le temps entre chaque séance.
+- Faites en sorte que les règles de base de la session soient visibles.
+- Commencez par faire le point sur les éléments de la rétrospective précédente.
+- Concentrez les discussions sur ce que vous êtes en mesure de changer.
+- Terminez toujours sur une note positive.
 
 
 
-### Retrospectives
-_The Retrospective Prime Directive_
-
-**"Regardless of what we discover, we understand and truly believe that everyone
-did the best job they could, given what they knew at the time, their skills and
-abilities, the resources available, and the situation at hand."**
-
--Norm Kerth, Project Retrospectives: A Handbook for Team Review
-
-
-
-### Retrospectives
-#### _The Retrospective Safety Check_
-
-- Ask participants to choose a number between 1 and 5 that indicates how safe they feel within the group.
-  - 5 - *No Problem, I’ll talk about anything*
-  - 1 - *I’ll smile and be calm; everything is great and agree with the managers*
-- The numbers should be taken anonymously.
-- Acknowledge the result and decide what’s next...
+### Rétrospectives
+#### _Formats populaires_
+- Réflexion autour du cercle
+- Étoile de mer (arrêter/démarrer/continuer/plus/moins)
+- Heureux/triste/gentil
+- Ligne du temps
+- Voilier (Île/Vent/Ancouragement/Rocs)
+- Plongée en profondeur sur un problème spécifique
+  - Arête de poisson
+  - 5 pourquoi
 
 
 
-### Exercise - Daily Retrospective
-Reflect on the first day of class, and make adjustments to continuously improve
+### Rétrospectives
+#### _La Rétrospective directive principale_
+
+**"Indépendamment de ce que nous découvrons, nous comprenons et croyons sincèrement que chacun
+a fait le meilleur travail qu'il pouvait, compte tenu de ce qu'il savait à l'époque, de ses compétences et capacités.
+capacités, les ressources disponibles et la situation du moment. "**
+
+-Norm Kerth, Project Retrospectives : A Handbook for Team Review
+
+
+
+### Rétrospectives
+#### _La Rétrospective contrôle de sécurité_
+
+- Demandez aux participants de choisir un chiffre entre 1 et 5 qui indique dans quelle mesure ils se sentent en sécurité au sein du groupe.
+  - 5 - *Pas de problème, je peux parler de tout*.
+  - 1 - *Je souris et je suis calme, tout est génial et je suis d'accord avec les responsables*.
+- Les chiffres doivent être relevés de manière anonyme.
+- Reconnaissez le résultat et décidez de la suite...
+
+
+
+### Exercice - Daily Rétrospective
+Réfléchir au premier jour de la formation et faire des ajustements pour s'améliorer continuellement.
 
 
 
 <!-- .slide: data-background-image="images/chef-background.png" class="white-style" -->
-### DevOps practices used in this section:
-- [Retrospectives](https://openpracticelibrary.com/practice/retrospectives/)
-- [Realtime Retrospective](https://openpracticelibrary.com/practice/realtime-retrospective/)
+### Les pratiques DevOps utilisées dans cette section :
+- [Rétrospectives](https://openpracticelibrary.com/practice/retrospectives/)
+- [Rétrospective en temps réel](https://openpracticelibrary.com/practice/realtime-retrospective/)

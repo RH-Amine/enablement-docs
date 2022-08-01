@@ -1,102 +1,101 @@
 <!-- .slide: data-background-image="images/RH_NewBrand_Background.png" -->
 ## DevOps Culture and Practice <!-- {_class="course-title"} -->
-### Metric-Based Process Mapping <!-- {_class="title-color"} -->
+### Cartographie des processus basée sur les métriques <!-- {_class="title-color"} -->
 DO500 <!-- {_class="title-color"} -->
 
 
 
 ### Value Streams
-Each table picks a sector and a business use case (some examples below):
-* Telco - Ordering a new Broadband package
-* Finance - Creating new Current Account
-* Government - Paying for Council Tax
-* Energy - Switching energy provider
+Chaque tableau sélectionne un secteur et un cas d'utilisation métier (quelques exemples ci-dessous) :
+* Telco - Commande d'un nouveau forfait large bande
+* Finance - Création d'un nouveau compte courant
+* Gouvernement - Paiement de la taxe d'habitation
+* Énergie - Changement de fournisseur d'énergie
 
-What is the trigger for the stream?
-What is end business value?
-What are all the steps in between?
-What's the Technology or system that helps with that step?
-
-
-
-### Metric-Based Process Mapping
-#### _What is It?_
-* Heavily influenced by Karen Martin's work in this area
-* Designed to view the detailed, micro picture and make tactical improvements with front line workers.
-* The first generation comes from Toyota's "information and material flow"
-as documented in [Lean Thinking](https://rht-labs.github.io/practice-library/practices/vsm-and-mbpm/#footnote-1)
-and the second generation from [Learning to See](https://rht-labs.github.io/practice-library/practices/vsm-and-mbpm/#footnote-2).
+Quel est l'élément déclencheur du flux ?
+Quelle est la valeur métier finale ?
+Quelles sont toutes les étapes intermédiaires ?
+Quelle est la technologie ou le système qui permet de réaliser cette étape ?
 
 
 
-### MBPM
-#### _Why Use It?_
-* Holistically analyze and optimize "brownfield" delivery processes, including everything from requirements definition, infrastructure provisioning and application development.
-* Visually represent the way work flows through an organization
-* Building a shared understanding throughout the various levels of an organization
-how the work is actually done.
-* Formulating specific, data driven improvement plans.
+### Cartographie des processus basée sur les métriques
+#### _Qu'est-ce que c'est ?_
+* Fortement influencé par le travail de Karen Martin dans ce domaine.
+* Conçus pour visualiser la vision détaillée, la situation et apporter des améliorations tactiques avec les travailleurs de première ligne.
+* La première génération est issue du "flux d'informations et de matériaux" de Toyota.
+tel que documenté dans [Lean Thinking] (https://rht-labs.github.io/practice-library/practices/vsm-and-mbpm/#footnote-1)
+et la deuxième génération de [Learning to See] (https://rht-labs.github.io/practice-library/practices/vsm-and-mbpm/#footnote-2).
 
 
 
-### Metric-Based Process Mapping
-How To
+### Cartographie des processus basée sur les métriques
+#### _Pourquoi l'utiliser?_
+* Analyser et optimiser les processus de livraison "brownfield", y compris la définition des besoins, l'approvisionnement en infrastructure et le développement d'applications.
+* Représenter visuellement la manière dont le travail progresse dans une organisation.
+* Construire une compréhension partagée à travers les différents niveaux de l'organisation.
+comment le travail est réellement effectué.
+* Formuler des plans d'amélioration spécifiques, basés sur des données.
 
 
 
-#### Label the map and create Swim Lanes
+### Cartographie des processus basée sur les métriques
+Comment
+
+
+
+#### Etiquettez la carte et créez "des couloirs de natation"
 ![Map Label](images/vsm/mbpm-swim-lanes.png)
 
 
 
-#### Add time
+#### Ajoutez le temps
 ![Map Label](images/vsm/mbpm-swim-add-time.png)
 
 
 
-#### Add the activities (the steps) to the map
+#### Ajouter les activités (les étapes) sur la carte
 ![Map Label](images/vsm/mbpm-steps.png)
 
 
 
-#### Some could be in parallel
+#### Certaines peuvent être en parallèle
 ![Map Label](images/vsm/mbpm-steps-final.png)
 
 
 
-### Metric-Based Process Mapping
-Document all activities (the steps)
+### Cartographie des processus basée sur les métriques
+Documenter toutes les activités (les étapes)
 
 
 
-#### The Activity
+#### L'activité
 ![the activity](images/vsm/mbpm-activities-0.png)
 
 
 
-#### Name the activity and who's involved
+#### Nommez l'activité et qui est impliqué
 ![Map Label](images/vsm/mbpm-activities-1.png)
 
 
 
-#### Add the number of people 
+#### Ajoutez le nombre de personnes
 ![Map Label](images/vsm/mbpm-activities-2.png)
 
 
 
-#### Add the accuracy
+#### Ajouter de la précision
 ![Map Label](images/vsm/mbpm-activities-3.png)
 
 
 
-#### Process Time / Lead Time
+#### Délai de traitement / délai d'exécution
 ![Map Label](images/vsm/mbpm-activities-4.png)
 
 
 
-### Metric-Based Process Mapping
-Lead Time vs. Process Time
-
+### Cartographie des processus basée sur les métriques
+Différence entre délai d'exécution et temps de traitement
 
 
 ![Map Label](images/vsm/pt-lt-1.png)
@@ -111,77 +110,74 @@ Lead Time vs. Process Time
 
 
 
-### Metric-Based Process Mapping
-#### Metrics: Time
-* Process Time (PT)
-  * The time to actually do the work, if one is able to do it uninterrupted
-  * Includes when specific to the task at hand:
-
-    Touch, talk, read, and think time
-* Lead Time (LT)
-  * Elapsed time from the time work is made available until it is completed
-  and passed on to the next person or department in the chain
-  * Includes process
+### Cartographie des processus basée sur les métriques
+#### métriques: temps
+* Temps de traitement (PT)
+  * Le temps nécessaire pour effectuer le travail, si l'on peut le faire sans interruption.
+  * Inclut le temps spécifique à la tâche à accomplir : Toucher, parler, lire et penser.
+* Temps de travail (LT)
+  * Temps écoulé entre le moment où le travail est mis à disposition et celui où il est achevé et transmis à la personne suivante ou à un autre employé.
+  jusqu'à ce qu'il soit terminé et transmis à la personne ou au service suivant dans la chaîne.
+  * Comprend le processus
 
 
-
-### Metric-Based Process Mapping
-#### Metrics: Quality
-* Percent complete and accurate
-* Percent of time downstream customer can perform task without having to:
-  * **Correct** information or material supplied
-  * **Add** information that should have been supplied
-  * **Clarify** information that should or could have been clearer
+### Cartographie des processus basée sur les métriques
+#### métriques: Qualité
+* Pourcentage d'achèvement et de précision
+* Pourcentage de temps pendant lequel le client suivant peut effectuer la tâche sans avoir à :
+  * **Corriger** les informations ou le matériel fournis
+  * **Ajouter** des informations qui auraient dû être fournies
+ *  **Clarifier** les informations qui auraient dû ou pu être plus claires.
 
 
 
-### Metric-Based Process Mapping: How To
-#### Define the _Timeline Critical Path_
+### Cartographie des processus basée sur les métriques: Comment
+#### Définir le _chemin critique du calendrier_.
 ![Critical Path](images/vsm/mbpmstep6.png)
 
 
 
-### Metric-Based Process Mapping: What Else To Do?
-* Create the timeline
-* Create summary metrics
-* Identify improvement areas
+### Cartographie des processus basée sur les métriques: What Else To Do?
+* Créer la chronologie
+* Créer un résumé des métriques
+* Identifier les domaines d'amélioration
 
 
 
-### Suggested Metrics to Assess Before and After
-* Frequency of deployments (more frequent is better)
-* Lead time for new features: from ideation through delivery (shorter is better)
-* Frequency of change failures (fewer changes are better)
-* Mean-time-to-repair, MTTR (shorter recovery times are better)
+### Métriques suggérées pour évaluer l'avant et l'après
+* Fréquence des déploiements (plus fréquents, mieux c'est)
+* Délai de mise en œuvre des nouvelles fonctionnalités : de l'idéation à la livraison (plus court, c'est mieux).
+* Fréquence des échecs de changement (moins de changements, c'est mieux)
+* Temps moyen de réparation (MTTR) (des temps de récupération plus courts sont préférables).
 
 
 
-### Exercise - TODO List MBPM (Assumptions)
+### Exercice -  TODO List Cartographie des processus basée sur les métriques (Hypothèses)
 
-* Guardrails are:
-  * Start - Feature Complete and ready to commit
-  * End - Feature deployed to Test env
-* Manual handoff and jobs
+* préconisations sont :
+  * Début - Fonctionnalité complète et prête à être livrée
+  * Fin - Fonctionnalité déployée dans l'environnement de test
+* Transfert manuel et travaux
 
 
 
-### Exercise - TODO List MBPM (Setup)
+### Exercice - TODO List Cartographie des processus basée sur les métriques  (installation)
 
 ![Swimlanes](images/vsm/mbpmstep2.png) <!-- {_class="inline-image"} -->
-* What will you call your MBPM diagram?
-* Who/What are your typical functions that do work in your process?
+* Comment allez-vous appeler votre diagramme MBPM ?
+* Qui/quelles sont les fonctions typiques qui travaillent dans votre processus ?
 
 
 
-### Exercise - TODO List MBPM
+### Exercice - TODO List MBPM
 
 ![Metrics](images/vsm/mbpmstep5.png) <!-- {_class="inline-image"} -->
-* PT = The time to actually do the work
-* LT = Time from when the work is available until it reaches the next step
-* % C&A = Percent of time downstream steps can complete without returning
+* PT = Le temps nécessaire pour effectuer le travail.
+* LT = Temps entre le moment où le travail est disponible et celui où il atteint l'étape suivante
+* % C&A = Pourcentage de temps pendant lequel les étapes en aval peuvent être achevées sans retour.
 
 
 
 <!-- .slide: data-background-image="images/chef-background.png", class="white-style" -->
-### DevOps practices used in this section:
-- [Metric-Based Processing Mapping](https://openpracticelibrary.com/practice/vsm-and-mbpm/)
+### Les pratiques DevOps utilisées dans cette section :
+- [Cartographie des processus basée sur les métriques](https://openpracticelibrary.com/practice/vsm-and-mbpm/)

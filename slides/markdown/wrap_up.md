@@ -1,26 +1,26 @@
 <!-- .slide: data-background-image="images/RH_NewBrand_Background.png"  -->
 ## DevOps Culture and Practice <!-- {_class="course-title"} -->
-### Wrap-Up <!-- {_class="title-color"} -->
+### Synthèse <!-- {_class="title-color"} -->
 DO500 <!-- {_class="title-color"} -->
 
 
 
-# Let's Recap
+# R&eacute;capitulons
 
 
 
-### What did we do?
-* Team Forming
-* Discovery, Delivery, Foundational practices
-* Hands-on technical exercises
-* Evolved two visualizations for project running and technical environment
+#### Qu'avons-nous fait ?
+* Formation de l'équipe
+* Découverte, livraison, pratiques fondamentales
+* Exercices techniques pratiques
+* Deux visions avancées pour le déroulement du projet et l'environnement technique
 
 
 
-### Call to Action
-* Use what you have learned
-* Reach out to your classmates and instructors
-* Use the resources shared during the class
+### Appel à l'action
+* Utilisez ce que vous avez appris
+* Communiquez avec vos camarades de classe et vos instructeurs
+* Utilisez les ressources partagées pendant le cours
 
 
 
