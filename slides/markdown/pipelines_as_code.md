@@ -35,12 +35,12 @@ L'objectif de ce lab est de remplacer les jobs Jenkins créés manuellement dans
 
 
 
-###  La vue d'ensemble
+### La vue d'ensemble
 ![BP4](images/bp-4-enslaved-hope.jpg)
 
 
 
-###  C'est parti ! !!
+### C'est parti ! !!
 Lab Exercise 4: _Un espoir asservi_
 
 
