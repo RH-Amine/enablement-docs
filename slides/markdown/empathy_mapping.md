@@ -12,7 +12,7 @@ DO500 <!-- {_class="title-color"} -->
 
 ### Carte de l'empathie
 #### _Qu'est-ce que c'est ? _
-* Un outil pour capturer et visualiser ce que les acteurs cl&eacute;s ressentent lorsqu'ils sont dans un contexte particulier ou lorsqu'ils accomplissent un ensemble de tâches.
+* Un outil pour capturer et visualiser ce que les acteurs cl&eacute;s ressentent lorsqu'ils sont dans un contexte particulier ou lorsqu'ils accomplissent un ensemble de t&acirc;ches.
 * Un moyen de mieux comprendre les utilisateurs et de cr&eacute;er des personages.
 * L'information est saisie directement &agrave; partir d'entretiens, d'observations et d'autres exercices de conversation guid&eacute;s.
 * Les sentiments captur&eacute;s peuvent inclure ce que la personne voit, pense, fait et ressent.

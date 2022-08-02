@@ -1,6 +1,6 @@
 <!-- .slide: data-background-image="images/RH_NewBrand_Background.png"  -->
 ## DevOps Culture and Practice <!-- {_class="course-title"} -->
-### Synthèse <!-- {_class="title-color"} -->
+### Synth&egrave;se <!-- {_class="title-color"} -->
 DO500 <!-- {_class="title-color"} -->
 
 
@@ -10,17 +10,17 @@ DO500 <!-- {_class="title-color"} -->
 
 
 #### Qu'avons-nous fait ?
-* Formation de l'équipe
-* Découverte, livraison, pratiques fondamentales
+* Formation de l'&eacute;quipe
+* D&eacute;couverte, livraison, pratiques fondamentales
 * Exercices techniques pratiques
-* Deux visions avancées pour le déroulement du projet et l'environnement technique
+* Deux visions avanc&eacute;es pour le d&eacute;roulement du projet et l'environnement technique
 
 
 
-### Appel à l'action
+### Appel &agrave; l'action
 * Utilisez ce que vous avez appris
 * Communiquez avec vos camarades de classe et vos instructeurs
-* Utilisez les ressources partagées pendant le cours
+* Utilisez les ressources partag&eacute;es pendant le cours
 
 
 

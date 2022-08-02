@@ -5,7 +5,7 @@ DO500 <!-- {_class="title-color"} -->
 
 
 
-## Activité de groupe
+## Activit&eacute; de groupe
 
 
 
@@ -16,20 +16,20 @@ DO500 <!-- {_class="title-color"} -->
 
 ### Tests non fonctionnels 
 #### _Qu'est-ce que c'est ? _
-Les tests non fonctionnels fournissent des indications précieuses sur la qualité du code, la sécurité et les
-performances de l'application. Les tests non fonctionnels peuvent être automatisés et incorporés
-dans **l'intégration continue**.
+Les tests non fonctionnels fournissent des indications pr&eacute;cieuses sur la qualit&eacute; du code, la s&eacute;curit&eacute; et les
+performances de l'application. Les tests non fonctionnels peuvent &ecirc;tre automatis&eacute;s et incorpor&eacute;s
+dans **l'int&eacute;gration continue**.
 
 
 
 ### Tests non fonctionnels 
 #### _En quoi cela peut-il aider ?_
-* Identifier plus tôt les problèmes de code et les pièges les plus courants.
-* Resserrer la boucle de feedback en exécutant des tests non fonctionnels plus tôt dans le
+* Identifier plus t&ocirc;t les probl&egrave;mes de code et les pi&egrave;ges les plus courants.
+* Resserrer la boucle de feedback en ex&eacute;cutant des tests non fonctionnels plus t&ocirc;t dans le
 cycle de vie du projet
-* Améliorer la lisibilité du code en suivant une norme de codage.
-* Améliorer la confiance dans la qualité du code
-* Rapprocher plus tôt les équipes de sécurité et de développement
+* Am&eacute;liorer la lisibilit&eacute; du code en suivant une norme de codage.
+* Am&eacute;liorer la confiance dans la qualit&eacute; du code
+* Rapprocher plus t&ocirc;t les &eacute;quipes de s&eacute;curit&eacute; et de d&eacute;veloppement
 
 
 <!-- .slide: id="non-functionls-strike-back" -->
@@ -39,9 +39,9 @@ cycle de vie du projet
 
 ### Lab Exercice 5: Les non-fonctionnels contre-attaquent
 * Ajout de rapports sur la couverture du code
-* Ajout de la vérification du style du code
-* Exécuter quelques tests de performance légers
-* Exécuter des tests de sécurité pour trouver des vulnérabilités dans l'application.
+* Ajout de la v&eacute;rification du style du code
+* Ex&eacute;cuter quelques tests de performance l&eacute;gers
+* Ex&eacute;cuter des tests de s&eacute;curit&eacute; pour trouver des vuln&eacute;rabilit&eacute;s dans l'application.
 
 
 
@@ -61,6 +61,6 @@ Lab Exercice 5: Les non-fonctionnels contre-attaquent
 
 
 <!-- .slide: data-background-image="images/chef-background.png", class="white-style" -->
-### Les pratiques DevOps utilisées dans cette section :
-- [Intégration Continue](https://openpracticelibrary.com/practice/continuous-integration/)
+### Les pratiques DevOps utilis&eacute;es dans cette section :
+- [Int&eacute;gration Continue](https://openpracticelibrary.com/practice/continuous-integration/)
 - [Test automatiques](https://openpracticelibrary.com/practice/test-automation/)

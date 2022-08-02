@@ -62,7 +62,7 @@ La livraison continue (**CD**) est une extension de l'int&eacute;gration continu
 * Chaque changement peut &ecirc;tre **potentiellement** pr&ecirc;t pour la mise en production.
 * Les builds s'appuient sur la pratique de l'int&eacute;gration continue.
 * Envisage d'automatiser la mise en production dans une zone de "d&eacute;monstration".
-* G&eacute;n&eacute;ralement mis en œuvre avec un serveur d'automatisation tel que Jenkins ou Tekton.
+* G&eacute;n&eacute;ralement mis en oeuvre avec un serveur d'automatisation tel que Jenkins ou Tekton.
 
 
 
