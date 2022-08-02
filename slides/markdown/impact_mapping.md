@@ -68,12 +68,12 @@ Il a &eacute;t&eacute; introduit dans le monde informatique par Gojko Adzic en 2
 
 
 ### Exercice - D&eacute;finir le contexte
-L'un des animateurs joue le rôle de *CEO* de Todolist Management International (TMI&trade ;).
+L'un des animateurs joue le r&ocirc;le de *CEO* de Todolist Management International (TMI&trade ;).
 
 #### &eacute;tude de march&eacute;
 
 * TMI&trade est depuis 15 ans le leader du march&eacute; des kits TodoList papier et crayon.
-* Nos recherches sugg&egrave;rent que les personnes les plus susceptibles d'utiliser une application num&eacute;rique TodoList sont âg&eacute;es de 18 &agrave; 49 ans.
+* Nos recherches sugg&egrave;rent que les personnes les plus susceptibles d'utiliser une application num&eacute;rique TodoList sont &acirc;g&eacute;es de 18 &agrave; 49 ans.
 * L'objectif &agrave; long terme est d'utiliser le mod&egrave;le de Facebook - attirer des millions d'utilisateurs pour pouvoir r&eacute;colter leurs donn&eacute;es &agrave; des fins malveillantes.
 
 
@@ -82,7 +82,7 @@ L'un des animateurs joue le rôle de *CEO* de Todolist Management International 
 En groupe :
 
 1. Commencez par la fin :
-   * Nous avons un outil facile &agrave; utiliser avec 1 million d'utilisateurs qui accomplissent des tâches.
+   * Nous avons un outil facile &agrave; utiliser avec 1 million d'utilisateurs qui accomplissent des t&acirc;ches.
 2. Discutez-en :
    * Est-ce un bon objectif ?
 3. Diverger <> Converger :

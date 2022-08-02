@@ -27,7 +27,7 @@ DO500 <!-- {_class="title-color"} -->
 
 * Visualiser le processus en colonnes et en cartes (Toujours visible)
 * Une **colonne** est une &eacute;tape du processus et une **carte** est un &eacute;l&eacute;ment de travail.
-* Toute tâche doit &ecirc;tre dans le tableau
+* Toute t&acirc;che doit &ecirc;tre dans le tableau
 * Con&ccedil;u par l'&eacute;quipe (physique ou virtuel)
 
 ![Kanban Board](images/kanban/kanban-board.png) <!-- {_class="" style="height:350px"} -->
@@ -38,18 +38,18 @@ DO500 <!-- {_class="title-color"} -->
 
 * Repr&eacute;sentation visuelle d'un &eacute;l&eacute;ment de travail (demand&eacute; ou d&eacute;j&agrave; en cours).
 * Examen des d&eacute;tails en un coup d'œil
-* Contient des informations pr&eacute;cieuses sur les tâches et leur statut (par exemple : r&eacute;sum&eacute;, personne responsable, date limite, ...).
+* Contient des informations pr&eacute;cieuses sur les t&acirc;ches et leur statut (par exemple : r&eacute;sum&eacute;, personne responsable, date limite, ...).
 * Identifier les opportunit&eacute;s de collaboration
 
 
 
 ### Limiter les travaux en cours (WIP)
 
-* Le nombre d'&eacute;l&eacute;ments de tâches sur lesquels une &eacute;quipe travaille actuellement &agrave; chaque &eacute;tape.
+* Le nombre d'&eacute;l&eacute;ments de t&acirc;ches sur lesquels une &eacute;quipe travaille actuellement &agrave; chaque &eacute;tape.
 * Cadre la capacit&eacute; du workflow de l'&eacute;quipe &agrave; tout moment.
-* Ne signifie pas qu'il faut faire moins de tâches, mais qu'il faut faire moins de tâches **en m&ecirc;me temps**.
+* Ne signifie pas qu'il faut faire moins de t&acirc;ches, mais qu'il faut faire moins de t&acirc;ches **en m&ecirc;me temps**.
 * Aide &agrave; identifier les goulots d'&eacute;tranglement
-* Emp&ecirc;cher un changement de contexte constant entre les tâches
+* Emp&ecirc;cher un changement de contexte constant entre les t&acirc;ches
 * D&eacute;finit un flux de travail stable et ensuite une livraison pr&eacute;visible
 
 
@@ -88,8 +88,8 @@ DO500 <!-- {_class="title-color"} -->
 
 ###  M&eacute;triques Kanban
 
-* **Lead Time**: Mesure le temps qu'une tâche passe dans le tableau Kanban, depuis son entr&eacute;e jusqu'&agrave; sa sortie. Une mesure pour nos clients
-* **Temps de cycle**:  Mesure le temps qu'une tâche passe &agrave; travers le processus, &agrave; partir du moment o&ugrave; la tâche a commenc&eacute;.
+* **Lead Time**: Mesure le temps qu'une t&acirc;che passe dans le tableau Kanban, depuis son entr&eacute;e jusqu'&agrave; sa sortie. Une mesure pour nos clients
+* **Temps de cycle**:  Mesure le temps qu'une t&acirc;che passe &agrave; travers le processus, &agrave; partir du moment o&ugrave; la t&acirc;che a commenc&eacute;.
 * **Rendement**: Mesure la quantit&eacute; totale de travail fourni (&eacute;l&eacute;ments de travail termin&eacute;s).
 *  Le temps de cycle, le d&eacute;bit et l'encours sont li&eacute;s par la **[Little's Law](https://en.wikipedia.org/wiki/Little%27s_law)**
 

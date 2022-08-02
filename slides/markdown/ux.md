@@ -11,9 +11,9 @@ DO500 <!-- {_class="title-color"} -->
 ![UserTopics](images/usm/ux_topics.png) <!-- {_class="" style="border:none; box-shadow:none;"} -->
 
 ![Excercice](images/exercise.png) <!-- {_class="" style="border:none; box-shadow:none; height:100px; float:left; margin-left:100px;"} -->
-1. Répartissez-vous en équipes et faites des recherches sur un sujet [5 minutes].
-2. Créez une présentation avec un graphique [5 minutes].
-3. Présentez vos résultats [3 minutes].
+1. R&eacute;partissez-vous en &eacute;quipes et faites des recherches sur un sujet [5 minutes].
+2. Cr&eacute;ez une pr&eacute;sentation avec un graphique [5 minutes].
+3. Pr&eacute;sentez vos r&eacute;sultats [3 minutes].
 
 
 
@@ -41,7 +41,7 @@ DO500 <!-- {_class="title-color"} -->
 
 ### Carte de l'empathie
 #### _Qu'est-ce que c'est ? _
-* Un outil pour capturer et visualiser ce que les acteurs cl&eacute;s ressentent lorsqu'ils sont dans un contexte particulier ou lorsqu'ils accomplissent un ensemble de tâches.
+* Un outil pour capturer et visualiser ce que les acteurs cl&eacute;s ressentent lorsqu'ils sont dans un contexte particulier ou lorsqu'ils accomplissent un ensemble de t&acirc;ches.
 * Un moyen de mieux comprendre les utilisateurs et de cr&eacute;er des personages.
 * L'information est saisie directement &agrave; partir d'entretiens, d'observations et d'autres exercices de conversation guid&eacute;s.
 * Les sentiments captur&eacute;s peuvent inclure ce que la personne voit, pense, fait et ressent.
@@ -67,7 +67,7 @@ les d&eacute;veloppeurs d'une application peuvent apprendre directement des util
 ![Announcement](images/usm/announcement.png) <!-- {_class="" style="border:none; box-shadow:none; height:200px; float:left;"} -->
 
 MORNING ROUTINE VENTURES <!-- {_class="" style="margin-top: 100px; text-align:left;"} -->
-souhaite investir dans le marché des "personnes en retard au travail" !
+souhaite investir dans le march&eacute; des "personnes en retard au travail" !
 
 <p align="left">**EXCELLENTE OPPORTUNITE !** </p>
 
@@ -78,12 +78,12 @@ souhaite investir dans le marché des "personnes en retard au travail" !
 ![LeanUX](images/usm/lean_ux.jpg) <!-- {_class="" style="border:none; box-shadow:none; height:300px; float:right;"} -->
 <p align="left" width="200px">Invent a product based on your value slicing excercise information.  <!-- {_class="" style="width:500px;"} -->
 
-* **Étape 1** - Entretien avec l'utilisateur [5 mn].
-* **Étape 2** - Esquisse - Prototype [10 mins]
-* **Étape 3** - Test utilisateur [5 mins]
-* **Étape 4** - Construction en Lego [15 min.]
+* **&eacute;tape 1** - Entretien avec l'utilisateur [5 mn].
+* **&eacute;tape 2** - Esquisse - Prototype [10 mins]
+* **&eacute;tape 3** - Test utilisateur [5 mins]
+* **&eacute;tape 4** - Construction en Lego [15 min.]
 
-<p>Conseils rapides - Utilisez une carte d'empathie, la technique des 5 échelles : POURQUOI ?</p><!--{_class="" style="text-align:left; font-size: smaller; font-weight: 100;"} -->
+<p>Conseils rapides - Utilisez une carte d'empathie, la technique des 5 &eacute;chelles : POURQUOI ?</p><!--{_class="" style="text-align:left; font-size: smaller; font-weight: 100;"} -->
 
 
 
@@ -92,19 +92,19 @@ souhaite investir dans le marché des "personnes en retard au travail" !
 
 * Des questions ouvertes bien construites :
 <p> *e.g. ~~Aimez-vous... ? ~~ Qu'est-ce que vous aimez dans... ? *
-* Creusez plus profondément, faites un suivi :
-<p> *e.g. vous avez mentionné que c'était difficile, dites-moi plus sur pourquoi...*.
+* Creusez plus profond&eacute;ment, faites un suivi :
+<p> *e.g. vous avez mentionn&eacute; que c'&eacute;tait difficile, dites-moi plus sur pourquoi...*.
 * N'utilisez pas de jargon.
-* Embrassez le silence gênant.
-* Gardez votre réaction neutre.
+* Embrassez le silence g&ecirc;nant.
+* Gardez votre r&eacute;action neutre.
 * Ne mentionnez pas la solution avant la fin.
 
 
 
-### **LES PRÉSENTATIONS DES ÉQUIPES**
+### **LES PR&eacute;SENTATIONS DES &eacute;QUIPES**
 ![Presentation](images/usm/presentation.jpg) <!-- {_class="" style="border:none; box-shadow:none; height:350px; float:left; margin-left:100px;""} -->
 
-* Idée initiale<!-- {_class="" style="margin-top: 120px; text-align:left;"} -->
+* Id&eacute;e initiale<!-- {_class="" style="margin-top: 120px; text-align:left;"} -->
 * Entretien avec l'utilisateur
 * Produit
 * Feedback de l'utilisateur

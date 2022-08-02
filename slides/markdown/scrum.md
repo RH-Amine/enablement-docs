@@ -8,73 +8,73 @@ DO500 <!-- {_class="title-color"} -->
 ### Origines de Scrum
 ![Scrum](images/Agile/scrum.jpg) <!-- {_class="inline-image"} -->
 * Phase de jeu de rugby
-* 1986 : Hirotaka Takeuchi et Ikujiro Nonaka ont publié [The New New Product Development Game] (https://hbr.org/1986/01/the-new-new-product-development-game).
-* 1990 Jeff Sutherland et Ken Schwaber ont utilisé la méthode Scrum pour le développement de logiciels.
+* 1986 : Hirotaka Takeuchi et Ikujiro Nonaka ont publi&eacute; [The New New Product Development Game] (https://hbr.org/1986/01/the-new-new-product-development-game).
+* 1990 Jeff Sutherland et Ken Schwaber ont utilis&eacute; la m&eacute;thode Scrum pour le d&eacute;veloppement de logiciels.
 
 
 
-### 3 rôles clés dans Scrum
+### 3 r&ocirc;les cl&eacute;s dans Scrum
 * _Product Owner_
 
-   Transmet le message du produit envisagé et fixe les priorités de l'équipe.
+   Transmet le message du produit envisag&eacute; et fixe les priorit&eacute;s de l'&eacute;quipe.
 * _Scrum Master_
 
- Encadre l'équipe sur le processus Scrum et l'aide à itérer vers un environnement productif.
-* Membres de l'équipe de développement
+ Encadre l'&eacute;quipe sur le processus Scrum et l'aide &agrave; it&eacute;rer vers un environnement productif.
+* Membres de l'&eacute;quipe de d&eacute;veloppement
 
-   S'organisent eux-mêmes pour transformer les éléments du backlog en un incrément de produit potentiellement libérable.
-
-
-![Cérémonies de Scrum](images/Agile/scrum_process.png)
+   S'organisent eux-m&ecirc;mes pour transformer les &eacute;l&eacute;ments du backlog en un incr&eacute;ment de produit potentiellement lib&eacute;rable.
 
 
+![C&eacute;r&eacute;monies de Scrum](images/Agile/scrum_process.png)
 
-| Événement Scrum | Objectifs |
+
+
+| &eacute;v&eacute;nement Scrum | Objectifs |
 | --- | --- |
-| **Sprint Planning** | S'engager à un ensemble de travaux définis en équipe pour le cycle de sprint à venir. Le résultat final est le Sprint Backlog. |
-| **Daily Standup** | Synchronisation quotidienne pour partager une compréhension commune des objectifs, coordonner l'effort de l'équipe, rendre compte de l'avancement des travaux et communiquer les problèmes et les améliorations. |
-| **Sprint Review** | Passez en revue ce qui a été réalisé pendant le sprint avec toutes les parties prenantes concernées afin de recueillir des feedbacks. |
-| **Sprint Retrospective** | Aidez les équipes à réfléchir à leur processus interne  dans le but de l'améliorer continuellement. |
-| **Sprint** | Un événement limité dans le temps qui amène l'équipe vers l'objectif fixé pour cette itération et se termine par la révision de l'incrément du produit. |
+| **Sprint Planning** | S'engager &agrave; un ensemble de travaux d&eacute;finis en &eacute;quipe pour le cycle de sprint &agrave; venir. Le r&eacute;sultat final est le Sprint Backlog. |
+| **Daily Standup** | Synchronisation quotidienne pour partager une compr&eacute;hension commune des objectifs, coordonner l'effort de l'&eacute;quipe, rendre compte de l'avancement des travaux et communiquer les probl&egrave;mes et les am&eacute;liorations. |
+| **Sprint Review** | Passez en revue ce qui a &eacute;t&eacute; r&eacute;alis&eacute; pendant le sprint avec toutes les parties prenantes concern&eacute;es afin de recueillir des feedbacks. |
+| **Sprint Retrospective** | Aidez les &eacute;quipes &agrave; r&eacute;fl&eacute;chir &agrave; leur processus interne  dans le but de l'am&eacute;liorer continuellement. |
+| **Sprint** | Un &eacute;v&eacute;nement limit&eacute; dans le temps qui am&egrave;ne l'&eacute;quipe vers l'objectif fix&eacute; pour cette it&eacute;ration et se termine par la r&eacute;vision de l'incr&eacute;ment du produit. |
 
 
-### 3 artefacts clés dans Scrum
+### 3 artefacts cl&eacute;s dans Scrum
 * _Product Backlog_
 
-  Ensemble de toutes les exigences de base classées par ordre de priorité pour l'équipe.
+  Ensemble de toutes les exigences de base class&eacute;es par ordre de priorit&eacute; pour l'&eacute;quipe.
 * _Sprint Backlog_
 
-  Sous-ensemble du Backlog de produit sur lequel l'équipe a accepté de travailler pendant le Sprint.
+  Sous-ensemble du Backlog de produit sur lequel l'&eacute;quipe a accept&eacute; de travailler pendant le Sprint.
 * _Product Increment_
 
-  L'artefact le plus important qui est produit à la fin de chaque Sprint.
+  L'artefact le plus important qui est produit &agrave; la fin de chaque Sprint.
 
 
 
 ### Exercice - Le jeu de balle (installation)
 
-Dans les différents groupes
-1. Dessinez un tableau avec deux colonnes et trois rangées.
-2. Notez votre estimation pour une itération.
+Dans les diff&eacute;rents groupes
+1. Dessinez un tableau avec deux colonnes et trois rang&eacute;es.
+2. Notez votre estimation pour une it&eacute;ration.
 3. Faites passer les balles pendant une minute.
-4. Enregistrez le score réel.
-5. Réfléchissez à la stratégie de votre groupe.
+4. Enregistrez le score r&eacute;el.
+5. R&eacute;fl&eacute;chissez &agrave; la strat&eacute;gie de votre groupe.
  
 
 
-### Exercice - Le jeu de balle (Règle)
+### Exercice - Le jeu de balle (R&egrave;gle)
 
-1. Faites passer autant de balles de ping-pong à tous les membres de l'équipe.
+1. Faites passer autant de balles de ping-pong &agrave; tous les membres de l'&eacute;quipe.
 2. Il doit y avoir un "temps d'air" entre chaque passe.
-3. Vous ne pouvez pas utiliser de récipients artificiels.
+3. Vous ne pouvez pas utiliser de r&eacute;cipients artificiels.
 4. Si vous laissez tomber une balle, vous perdez un point.
 
 
 
 <!-- .slide: data-background-image="images/chef-background.png", class="white-style" -->
-### Pratiques DevOps utilisées dans cette section:
+### Pratiques DevOps utilis&eacute;es dans cette section:
 - [Sprint Planning](https://openpracticelibrary.com/practice/iteration-planning/)
 - [Daily Standup](https://openpracticelibrary.com/practice/daily-standup/)
-- [démo](https://openpracticelibrary.com/practice/showcase/)
-- [Rétrospectives](https://openpracticelibrary.com/practice/retrospectives/)
+- [d&eacute;mo](https://openpracticelibrary.com/practice/showcase/)
+- [R&eacute;trospectives](https://openpracticelibrary.com/practice/retrospectives/)
 - [Backlog Refinement](https://openpracticelibrary.com/practice/backlog-refinement)

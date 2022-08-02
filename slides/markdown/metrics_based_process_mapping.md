@@ -1,50 +1,50 @@
 <!-- .slide: data-background-image="images/RH_NewBrand_Background.png" -->
 ## DevOps Culture and Practice <!-- {_class="course-title"} -->
-### Cartographie des processus basée sur les métriques <!-- {_class="title-color"} -->
+### Cartographie des processus bas&eacute;e sur les m&eacute;triques <!-- {_class="title-color"} -->
 DO500 <!-- {_class="title-color"} -->
 
 
 
 ### Value Streams
-Chaque tableau sélectionne un secteur et un cas d'utilisation métier (quelques exemples ci-dessous) :
+Chaque tableau s&eacute;lectionne un secteur et un cas d'utilisation m&eacute;tier (quelques exemples ci-dessous) :
 * Telco - Commande d'un nouveau forfait large bande
-* Finance - Création d'un nouveau compte courant
+* Finance - Cr&eacute;ation d'un nouveau compte courant
 * Gouvernement - Paiement de la taxe d'habitation
-* Énergie - Changement de fournisseur d'énergie
+* &eacute;nergie - Changement de fournisseur d'&eacute;nergie
 
-Quel est l'élément déclencheur du flux ?
-Quelle est la valeur métier finale ?
-Quelles sont toutes les étapes intermédiaires ?
-Quelle est la technologie ou le système qui permet de réaliser cette étape ?
+Quel est l'&eacute;l&eacute;ment d&eacute;clencheur du flux ?
+Quelle est la valeur m&eacute;tier finale ?
+Quelles sont toutes les &eacute;tapes interm&eacute;diaires ?
+Quelle est la technologie ou le syst&egrave;me qui permet de r&eacute;aliser cette &eacute;tape ?
 
 
 
-### Cartographie des processus basée sur les métriques
+### Cartographie des processus bas&eacute;e sur les m&eacute;triques
 #### _Qu'est-ce que c'est ?_
-* Fortement influencé par le travail de Karen Martin dans ce domaine.
-* Conçus pour visualiser la vision détaillée, la situation et apporter des améliorations tactiques avec les travailleurs de première ligne.
-* La première génération est issue du "flux d'informations et de matériaux" de Toyota.
-tel que documenté dans [Lean Thinking] (https://rht-labs.github.io/practice-library/practices/vsm-and-mbpm/#footnote-1)
-et la deuxième génération de [Learning to See] (https://rht-labs.github.io/practice-library/practices/vsm-and-mbpm/#footnote-2).
+* Fortement influenc&eacute; par le travail de Karen Martin dans ce domaine.
+* Con&ccedil;us pour visualiser la vision d&eacute;taill&eacute;e, la situation et apporter des am&eacute;liorations tactiques avec les travailleurs de premi&egrave;re ligne.
+* La premi&egrave;re g&eacute;n&eacute;ration est issue du "flux d'informations et de mat&eacute;riaux" de Toyota.
+tel que document&eacute; dans [Lean Thinking] (https://rht-labs.github.io/practice-library/practices/vsm-and-mbpm/#footnote-1)
+et la deuxi&egrave;me g&eacute;n&eacute;ration de [Learning to See] (https://rht-labs.github.io/practice-library/practices/vsm-and-mbpm/#footnote-2).
 
 
 
-### Cartographie des processus basée sur les métriques
+### Cartographie des processus bas&eacute;e sur les m&eacute;triques
 #### _Pourquoi l'utiliser?_
-* Analyser et optimiser les processus de livraison "brownfield", y compris la définition des besoins, l'approvisionnement en infrastructure et le développement d'applications.
-* Représenter visuellement la manière dont le travail progresse dans une organisation.
-* Construire une compréhension partagée à travers les différents niveaux de l'organisation.
-comment le travail est réellement effectué.
-* Formuler des plans d'amélioration spécifiques, basés sur des données.
+* Analyser et optimiser les processus de livraison "brownfield", y compris la d&eacute;finition des besoins, l'approvisionnement en infrastructure et le d&eacute;veloppement d'applications.
+* Repr&eacute;senter visuellement la mani&egrave;re dont le travail progresse dans une organisation.
+* Construire une compr&eacute;hension partag&eacute;e &agrave; travers les diff&eacute;rents niveaux de l'organisation.
+comment le travail est r&eacute;ellement effectu&eacute;.
+* Formuler des plans d'am&eacute;lioration sp&eacute;cifiques, bas&eacute;s sur des donn&eacute;es.
 
 
 
-### Cartographie des processus basée sur les métriques
+### Cartographie des processus bas&eacute;e sur les m&eacute;triques
 Comment
 
 
 
-#### Etiquettez la carte et créez "des couloirs de natation"
+#### Etiquettez la carte et cr&eacute;ez "des couloirs de natation"
 ![Map Label](images/vsm/mbpm-swim-lanes.png)
 
 
@@ -54,27 +54,27 @@ Comment
 
 
 
-#### Ajouter les activités (les étapes) sur la carte
+#### Ajouter les activit&eacute;s (les &eacute;tapes) sur la carte
 ![Map Label](images/vsm/mbpm-steps.png)
 
 
 
-#### Certaines peuvent être en parallèle
+#### Certaines peuvent &ecirc;tre en parall&egrave;le
 ![Map Label](images/vsm/mbpm-steps-final.png)
 
 
 
-### Cartographie des processus basée sur les métriques
-Documenter toutes les activités (les étapes)
+### Cartographie des processus bas&eacute;e sur les m&eacute;triques
+Documenter toutes les activit&eacute;s (les &eacute;tapes)
 
 
 
-#### L'activité
+#### L'activit&eacute;
 ![the activity](images/vsm/mbpm-activities-0.png)
 
 
 
-#### Nommez l'activité et qui est impliqué
+#### Nommez l'activit&eacute; et qui est impliqu&eacute;
 ![Map Label](images/vsm/mbpm-activities-1.png)
 
 
@@ -84,18 +84,18 @@ Documenter toutes les activités (les étapes)
 
 
 
-#### Ajouter de la précision
+#### Ajouter de la pr&eacute;cision
 ![Map Label](images/vsm/mbpm-activities-3.png)
 
 
 
-#### Délai de traitement / délai d'exécution
+#### D&eacute;lai de traitement / d&eacute;lai d'ex&eacute;cution
 ![Map Label](images/vsm/mbpm-activities-4.png)
 
 
 
-### Cartographie des processus basée sur les métriques
-Différence entre délai d'exécution et temps de traitement
+### Cartographie des processus bas&eacute;e sur les m&eacute;triques
+Diff&eacute;rence entre d&eacute;lai d'ex&eacute;cution et temps de traitement
 
 
 ![Map Label](images/vsm/pt-lt-1.png)
@@ -110,58 +110,58 @@ Différence entre délai d'exécution et temps de traitement
 
 
 
-### Cartographie des processus basée sur les métriques
-#### métriques: temps
+### Cartographie des processus bas&eacute;e sur les m&eacute;triques
+#### m&eacute;triques: temps
 * Temps de traitement (PT)
-  * Le temps nécessaire pour effectuer le travail, si l'on peut le faire sans interruption.
-  * Inclut le temps spécifique à la tâche à accomplir : Toucher, parler, lire et penser.
+  * Le temps n&eacute;cessaire pour effectuer le travail, si l'on peut le faire sans interruption.
+  * Inclut le temps sp&eacute;cifique &agrave; la t&acirc;che &agrave; accomplir : Toucher, parler, lire et penser.
 * Temps de travail (LT)
-  * Temps écoulé entre le moment où le travail est mis à disposition et celui où il est achevé et transmis à la personne suivante ou à un autre employé.
-  jusqu'à ce qu'il soit terminé et transmis à la personne ou au service suivant dans la chaîne.
+  * Temps &eacute;coul&eacute; entre le moment où le travail est mis &agrave; disposition et celui où il est achev&eacute; et transmis &agrave; la personne suivante ou &agrave; un autre employ&eacute;.
+  jusqu'&agrave; ce qu'il soit termin&eacute; et transmis &agrave; la personne ou au service suivant dans la chaîne.
   * Comprend le processus
 
 
-### Cartographie des processus basée sur les métriques
-#### métriques: Qualité
-* Pourcentage d'achèvement et de précision
-* Pourcentage de temps pendant lequel le client suivant peut effectuer la tâche sans avoir à :
-  * **Corriger** les informations ou le matériel fournis
-  * **Ajouter** des informations qui auraient dû être fournies
- *  **Clarifier** les informations qui auraient dû ou pu être plus claires.
+### Cartographie des processus bas&eacute;e sur les m&eacute;triques
+#### m&eacute;triques: Qualit&eacute;
+* Pourcentage d'ach&egrave;vement et de pr&eacute;cision
+* Pourcentage de temps pendant lequel le client suivant peut effectuer la t&acirc;che sans avoir &agrave; :
+  * **Corriger** les informations ou le mat&eacute;riel fournis
+  * **Ajouter** des informations qui auraient dû &ecirc;tre fournies
+ *  **Clarifier** les informations qui auraient dû ou pu &ecirc;tre plus claires.
 
 
 
-### Cartographie des processus basée sur les métriques: Comment
-#### Définir le _chemin critique du calendrier_.
+### Cartographie des processus bas&eacute;e sur les m&eacute;triques: Comment
+#### D&eacute;finir le _chemin critique du calendrier_.
 ![Critical Path](images/vsm/mbpmstep6.png)
 
 
 
-### Cartographie des processus basée sur les métriques: What Else To Do?
-* Créer la chronologie
-* Créer un résumé des métriques
-* Identifier les domaines d'amélioration
+### Cartographie des processus bas&eacute;e sur les m&eacute;triques: What Else To Do?
+* Cr&eacute;er la chronologie
+* Cr&eacute;er un r&eacute;sum&eacute; des m&eacute;triques
+* Identifier les domaines d'am&eacute;lioration
 
 
 
-### Métriques suggérées pour évaluer l'avant et l'après
-* Fréquence des déploiements (plus fréquents, mieux c'est)
-* Délai de mise en œuvre des nouvelles fonctionnalités : de l'idéation à la livraison (plus court, c'est mieux).
-* Fréquence des échecs de changement (moins de changements, c'est mieux)
-* Temps moyen de réparation (MTTR) (des temps de récupération plus courts sont préférables).
+### M&eacute;triques sugg&eacute;r&eacute;es pour &eacute;valuer l'avant et l'apr&egrave;s
+* Fr&eacute;quence des d&eacute;ploiements (plus fr&eacute;quents, mieux c'est)
+* D&eacute;lai de mise en œuvre des nouvelles fonctionnalit&eacute;s : de l'id&eacute;ation &agrave; la livraison (plus court, c'est mieux).
+* Fr&eacute;quence des &eacute;checs de changement (moins de changements, c'est mieux)
+* Temps moyen de r&eacute;paration (MTTR) (des temps de r&eacute;cup&eacute;ration plus courts sont pr&eacute;f&eacute;rables).
 
 
 
-### Exercice -  TODO List Cartographie des processus basée sur les métriques (Hypothèses)
+### Exercice -  TODO List Cartographie des processus bas&eacute;e sur les m&eacute;triques (Hypoth&egrave;ses)
 
-* préconisations sont :
-  * Début - Fonctionnalité complète et prête à être livrée
-  * Fin - Fonctionnalité déployée dans l'environnement de test
+* pr&eacute;conisations sont :
+  * D&eacute;but - Fonctionnalit&eacute; compl&egrave;te et pr&ecirc;te &agrave; &ecirc;tre livr&eacute;e
+  * Fin - Fonctionnalit&eacute; d&eacute;ploy&eacute;e dans l'environnement de test
 * Transfert manuel et travaux
 
 
 
-### Exercice - TODO List Cartographie des processus basée sur les métriques  (installation)
+### Exercice - TODO List Cartographie des processus bas&eacute;e sur les m&eacute;triques  (installation)
 
 ![Swimlanes](images/vsm/mbpmstep2.png) <!-- {_class="inline-image"} -->
 * Comment allez-vous appeler votre diagramme MBPM ?
@@ -172,12 +172,12 @@ Différence entre délai d'exécution et temps de traitement
 ### Exercice - TODO List MBPM
 
 ![Metrics](images/vsm/mbpmstep5.png) <!-- {_class="inline-image"} -->
-* PT = Le temps nécessaire pour effectuer le travail.
-* LT = Temps entre le moment où le travail est disponible et celui où il atteint l'étape suivante
-* % C&A = Pourcentage de temps pendant lequel les étapes en aval peuvent être achevées sans retour.
+* PT = Le temps n&eacute;cessaire pour effectuer le travail.
+* LT = Temps entre le moment où le travail est disponible et celui où il atteint l'&eacute;tape suivante
+* % C&A = Pourcentage de temps pendant lequel les &eacute;tapes en aval peuvent &ecirc;tre achev&eacute;es sans retour.
 
 
 
 <!-- .slide: data-background-image="images/chef-background.png", class="white-style" -->
-### Les pratiques DevOps utilisées dans cette section :
-- [Cartographie des processus basée sur les métriques](https://openpracticelibrary.com/practice/vsm-and-mbpm/)
+### Les pratiques DevOps utilis&eacute;es dans cette section :
+- [Cartographie des processus bas&eacute;e sur les m&eacute;triques](https://openpracticelibrary.com/practice/vsm-and-mbpm/)
